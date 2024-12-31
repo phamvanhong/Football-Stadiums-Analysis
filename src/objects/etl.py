@@ -57,7 +57,6 @@ class ETL:
         """
         Load the data to the database
         """
-        #folder_name = kwargs['folder_name']
         file_name = kwargs['file_name']
         account_key = kwargs['azure_storage_key']
         dir = kwargs['dir']

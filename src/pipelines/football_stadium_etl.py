@@ -3,8 +3,9 @@ sys.path.insert(0, '/opt/airflow/src/')
 from objects.etl import ETL
 import pandas as pd
 import json
-import re
 from datetime import datetime
+import logging
+
 
 def extract_data(**kwargs):
     """
@@ -53,32 +54,15 @@ def transform_data(**kwargs):
 
     return "Data transformed and pushed to XCom"
 
-# def load_data(**kwargs):
-#     """
-#     Load the data to the database
-#     """
-#     # Pull the data from XCom
-#     data = json.loads(kwargs['ti'].xcom_pull(key='football_stadium_data', task_ids='transform_wikipedia_data'))
-#     football_stadium_df = pd.DataFrame(data)
-
-#     etl = ETL(kwargs['url'])
-#     etl.load(football_stadium_df, 
-#              folder_name = kwargs['folder_name'], 
-#              file_name = kwargs['file_name'],
-#              azure_storage_key = kwargs['azure_storage_key'])
-
-#     return "Data loaded to the database"
-
 def load_data(**kwargs):
     data = kwargs['ti'].xcom_pull(key='football_stadium_data', task_ids='transform_wikipedia_data')
 
     data = json.loads(data)
     data = pd.DataFrame(data)
-    path = f'abfs://footballstadiumdataeng@footballstadiumdataeng.dfs.core.windows.net/raw_data/{kwargs["folder_name"]}/{kwargs["file_name"]}'
-
-    # data.to_csv('data/' + file_name, index=False)
-    data.to_csv(path,
-                storage_options={
-                    'account_key': kwargs['azure_storage_key']
-                }, index=False)
+    etl = ETL(kwargs['url'])
+    etl.load(data, 
+             #folder_name=kwargs['folder_name'], 
+             file_name=kwargs['file_name'], 
+             azure_storage_key=kwargs['azure_storage_key'],
+             dir=kwargs['dir'])
 

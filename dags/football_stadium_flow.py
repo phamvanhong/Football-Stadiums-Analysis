@@ -18,14 +18,14 @@ default_args = {
         "target_table_index": 2,
         "file_name": ('football_stadiums_' + str(datetime.now().date())
                  + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),
-        "folder_name": "football_stadiums_data",
-        "azure_storage_key": azure_storage_key
+        "dir": "raw_data/football_stadiums_data",
+        "azure_storage_key": azure_storage_key,
     }
     
 }
 
 with DAG(
-    dag_id= 'football_stadium_flow',
+    dag_id= 'test',
     default_args=default_args,
     schedule_interval= None,
     catchup=False,
