@@ -42,17 +42,6 @@ class ETL:
 
         return data
     
-    # def load(self, data: pd.DataFrame,**kwargs):
-    #     """
-    #     Load the data to the database
-    #     """
-    #     path = f'abfs://footballdataeng@footballdataeng.dfs.core.windows.net/raw_data/{kwargs["folder_name"]}/{kwargs["file_name"]}'
-        
-    #     data.to_csv(path,
-    #             storage_options={
-    #                 'account_key': kwargs['azure_storage_key']
-    #             }, index=False)
-    #     return "Data loaded to the database"
     def load(self, data: pd.DataFrame, **kwargs):
         """
         Load the data to the database
