@@ -38,6 +38,7 @@ class ETL:
         data = data.apply(lambda col: col.map(lambda x: re.sub(r"[^\w,\-\s']", "", x, flags=re.UNICODE) if isinstance(x, str) else x))
 
         # rename columns
+        data.columns = [col.lower() for col in data.columns]
         data = data.rename(columns=kwargs['cols_rename'])
 
         return data

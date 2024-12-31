@@ -14,7 +14,13 @@ default_args = {
     "op_kwargs": {
         "url": r'https://en.wikipedia.org/wiki/List_of_association_football_stadiums_by_capacity',
         "cols_drop": ["Images"],
-        "cols_rename": {"Rank": "Stadium_id", "Home team(s)": "Home_teams", "Seating capacity": "Capacity"},
+        "cols_rename": 
+        {
+            "Rank": "stadium_id", 
+            "home team(s)": "home_teams", 
+            "seating capacity": "capacity",
+            "region": "continent",
+            },
         "target_table_index": 2,
         "file_name": ('football_stadiums_' + str(datetime.now().date())
                  + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),

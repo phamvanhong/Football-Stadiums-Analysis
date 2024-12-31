@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(0, '/opt/airflow/src/')
 from airflow.models import Variable
-from pipelines.country_codes_etl import extract_data, transform_data, load_data
+from pipelines.continent_codes_etl import extract_data, transform_data, load_data
 from airflow.operators.python import PythonOperator
 from airflow import DAG
 from datetime import datetime
@@ -22,7 +22,7 @@ default_args = {
         ],
         "cols_rename":
         {
-            "English short name (using title case)": "country",
+            "English short name (using title case)": "Country",
             "Alpha-2 code": "country_id", 
             "Numeric code": "country_numeric_id"
         },
