@@ -13,30 +13,26 @@ default_args = {
     'owner': 'Hong Pham Van',
     'start_date': datetime(2024, 12, 22),
     "op_kwargs": {
-        "url": r'https://en.wikipedia.org/wiki/ISO_3166-1',
+        "url": r'https://en.wikipedia.org/wiki/Template:Continent_code',
         "cols_drop":
         [
-            "Alpha-3 code",
-            "Link to ISO 3166-2",
-            "Independent[b]"
+            "Markup"
         ],
         "cols_rename":
         {
-            "English short name (using title case)": "Country",
-            "Alpha-2 code": "country_id", 
-            "Numeric code": "country_numeric_id"
+            "Output": "continent_id",
         },
         "target_table_index": 1,
-        "file_name": ('country_codes_' + str(datetime.now().date())
+        "file_name": ('continent_codes_' + str(datetime.now().date())
                       + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),
-        "dir": "raw_data/country_codes_data",
+        "dir": "raw_data/continent_codes_data",
         "azure_storage_key": azure_storage_key,
     }
 
 }
 
 with DAG(
-    dag_id='country_codes_flow',
+    dag_id='continent_codes_flow',
     default_args=default_args,
     schedule_interval=None,
     catchup=False,

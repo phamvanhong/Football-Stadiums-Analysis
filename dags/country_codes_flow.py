@@ -22,9 +22,9 @@ default_args = {
         ],
         "cols_rename":
         {
-            "English short name (using title case)": "country",
-            "Alpha-2 code": "country_id", 
-            "Numeric code": "country_numeric_id"
+            "english short name (using title case)": "country",
+            "alpha-2 code": "country_id", 
+            "numeric code": "country_numeric_id"
         },
         "target_table_index": 1,
         "file_name": ('country_codes_' + str(datetime.now().date())
