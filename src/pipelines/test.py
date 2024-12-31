@@ -61,7 +61,8 @@ def load_data(**kwargs):
     data = pd.DataFrame(data)
     etl = ETL(kwargs['url'])
     etl.load(data, 
-             folder_name=kwargs['folder_name'], 
+             #folder_name=kwargs['folder_name'], 
              file_name=kwargs['file_name'], 
-             azure_storage_key=kwargs['azure_storage_key'])
+             azure_storage_key=kwargs['azure_storage_key'],
+             dir=kwargs['dir'])
 

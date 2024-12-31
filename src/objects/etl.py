@@ -57,11 +57,12 @@ class ETL:
         """
         Load the data to the database
         """
-        folder_name = kwargs['folder_name']
+        #folder_name = kwargs['folder_name']
         file_name = kwargs['file_name']
         account_key = kwargs['azure_storage_key']
+        dir = kwargs['dir']
 
-        path = f'abfs://footballdataeng@footballdataeng.dfs.core.windows.net/raw_data/{folder_name}/{file_name}'
+        path = f'abfs://footballstadiumdataeng@footballstadiumdataeng.dfs.core.windows.net/{dir}/{file_name}'
         
         data.to_csv(path,
                 storage_options={
