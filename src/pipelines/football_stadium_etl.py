@@ -4,6 +4,7 @@ from objects.etl import ETL
 import pandas as pd
 import json
 from datetime import datetime
+import re
 
 
 def extract_data(**kwargs):
@@ -49,7 +50,7 @@ def transform_data(**kwargs):
     football_stadium_df['capacity'] = football_stadium_df['capacity'].str.replace(',', '', regex = True)
 
     # Change values in the Region column to "Asia" if they contain the word "Asia"
-    football_stadium_df['region'] = football_stadium_df['region'].str.replace(r'.*Asia.*', 'Asia', regex=True)
+    football_stadium_df['continent'] = football_stadium_df['continent'].str.replace(r'.*Asia.*', 'Asia', regex=True)
     # Push the transformed data to XCom
     kwargs['ti'].xcom_push(key='football_stadium_data', value=football_stadium_df.to_json(orient='records'))
 
