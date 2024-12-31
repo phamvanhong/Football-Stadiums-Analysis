@@ -25,7 +25,7 @@ default_args = {
 }
 
 with DAG(
-    dag_id= 'test',
+    dag_id= 'football_stadiums_flow',
     default_args=default_args,
     schedule_interval= None,
     catchup=False,

@@ -4,7 +4,6 @@ from objects.etl import ETL
 import pandas as pd
 import json
 from datetime import datetime
-import logging
 
 
 def extract_data(**kwargs):
@@ -60,8 +59,7 @@ def load_data(**kwargs):
     data = json.loads(data)
     data = pd.DataFrame(data)
     etl = ETL(kwargs['url'])
-    etl.load(data, 
-             #folder_name=kwargs['folder_name'], 
+    etl.load(data,
              file_name=kwargs['file_name'], 
              azure_storage_key=kwargs['azure_storage_key'],
              dir=kwargs['dir'])
