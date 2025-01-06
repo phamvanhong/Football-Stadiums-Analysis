@@ -1,0 +1,380 @@
+stadium_id,stadium,capacity,continent,country,city,home_teams
+1,Rungrado 1st of May Stadium ,1140001,Asia,North Korea,Pyongyang,"Korea DPR national football team, Korea DPR women's national football team, April 25"
+2,Michigan Stadium,1076012,North America,United States,"Ann Arbor, Michigan",Michigan Wolverines football
+3,Ohio Stadium,1027803,North America,United States,"Columbus, Ohio",Ohio State Buckeyes football
+4,Melbourne Cricket Ground ,1000244,Oceania,Australia,"Melbourne, Victoria","Australia national cricket team, Victoria cricket team, Melbourne Cricket Club, Melbourne Stars, Melbourne FC, Richmond FC, Collingwood FC, Hawthorn FC"
+5,Camp Nou ,993545,Europe,Spain,"Barcelona, Catalonia",FC Barcelona
+6,Estadio Azteca ,955006,North America,Mexico,Mexico City,"Club América, Cruz Azul, Mexico national football team"
+7,FNB Stadium ,947367,Africa,South Africa,"Johannesburg, Gauteng","South Africa national football team, Kaizer Chiefs"
+8,New Administrative Capital Stadium ,939408,Africa,Egypt,New Administrative Capital,Egypt national football team
+9,Rose Bowl Stadium,928009,North America,United States,"Pasadena, California",UCLA Bruins
+10,Cotton Bowl Stadium,9210010,North America,United States,"Dallas, Texas",Dallas Trinity FC
+11,Wembley Stadium ,9000011,Europe,England,"London, England",England national football team
+12,Lusail Stadium ,8896612,Asia,Qatar,Lusail,Qatar national football team
+13,Bukit Jalil National Stadium ,87411,Asia,Malaysia,Kuala Lumpur,Malaysia national football team13
+14,Borg el-Arab Stadium,8600014,Africa,Egypt,Alexandria,"Egypt national football team, Al Ittihad, Smouha"
+15,Estadio Santiago Bernabéu,8500015,Europe,Spain,Madrid,Real Madrid
+16,Estadio Mâs Monumental ,84567,South America,Argentina,Buenos Aires,"Argentina national football team, River Plate"
+17,Stadium Australia,83500,Oceania,Australia,"Sydney, New South Wales","South Sydney Rabbitohs, Canterbury-Bankstown Bulldogs, New South Wales Blues, New South Wales Waratahs, Australia men's national soccer team, Australia national rugby union team"
+18,MetLife Stadium,82500,North America,United States,"East Rutherford, New Jersey","New York Giants, New York Jets, United States men's national soccer team"
+19,Croke Park ,8230016,Europe,Ireland,Dublin,"Gaelic Athletic Association, Dublin GAA"
+20,Jakarta International Stadium ,82000,Asia,Indonesia,Jakarta,"Persija Jakarta, Indonesia national football team"
+21,Lambeau Field,8144117,North America,United States,"Green Bay, Wisconsin",Green Bay Packers
+22,Signal Iduna Park ,81365,Europe,Germany,Dortmund,Borussia Dortmund
+23,Stade de France ,8133818,Europe,France,Saint-Denis,France national football team
+24,Grand Sports Arena of the Luzhniki Olympic Complex ,81000,Europe,Russia,Moscow,
+25,Shah Alam Stadium,80372,Asia,Malaysia,"Shah Alam, Selangor",Selangor FA
+26,Estadio Monumental ,80093,South America,Peru,Lima,Club Universitario de Deportes
+27,Stadio Giuseppe Meazza ,80018,Europe,Italy,"Milan, Lombardy",AC Milan and Internazionale
+28,Guangdong Olympic Stadium ,80012,Asia,China,"Guangzhou, Guangdong",
+29,Hangzhou Olympic Sports Expo Centre Stadium,80000,Asia,China,"Hangzhou, Zhejiang",
+30,ATT Stadium ,8000019,North America,United States,"Arlington, Texas","Dallas Cowboys, FC Dallas"
+31,Stade des Martyrs ,80000,Africa,DR Congo,Kinshasa,Congo DR national football team
+32,Stade Tata Raphaël ,80000,Africa,DR Congo,Kinshasa,"AS Vita Club, DC Motema Pembe"
+33,National Sports Stadium ,80000,Africa,Zimbabwe,Harare,Zimbabwe national football team
+34,Moi International Sports Centre ,80000,Africa,Kenya,Nairobi,Kenya national football team
+35,Beijing National Stadium,8000020,Asia,China,Beijing,
+36,Stade Léopold Sédar Senghor ,80000,Africa,Senegal,Dakar,"Senegal national football team, ASC Jeanne d'Arc"
+37,Maracanã ,788382122,South America,Brazil,"Rio de Janeiro, Rio de Janeiro","CR Flamengo, Fluminense FC, Botafogo FR, CR Vasco da Gama"
+38,Los Angeles Memorial Coliseum,78467,North America,United States,"Los Angeles, California",USC Trojans
+39,Azadi Stadium ,781162324,Asia,Iran,Tehran,"Iran national football team, Esteghlal FC, Persepolis FC"
+40,Stadion Utama Gelora Bung Karno,7719325,Asia,Indonesia,Jakarta,"Indonesia national football team,"
+41,Caesar's Superdome,7646826,North America,United States,"New Orleans, Louisiana","New Orleans Saints, Sugar Bowl"
+42,Arrowhead Stadium,7641227,North America,United States,"Kansas City, Missouri",Kansas City Chiefs
+43,Empower Field,7612528,North America,United States,Denver,Denver Broncos
+44,Atatürk Olimpiyat Stadyumu ,7609229,Europe,Turkey,Istanbul,
+45,Old Trafford,76000,Europe,England,"Manchester, North West England",Manchester United
+46,Allianz Arena,7502430,Europe,Germany,Munich,FC Bayern Munich
+47,Naghsh-e-Jahan Stadium,75000,Asia,Iran,Isfahan,Sepahan FC
+48,Bank of America Stadium,74867,North America,United States,"Charlotte, North Carolina","Charlotte FC, Carolina Panthers"
+49,Principality Stadium ,74500,Europe,Wales,Cardiff,Wales national rugby union team
+50,Olympiastadion,74475,Europe,Germany,Berlin,Hertha BSC
+51,Cairo International Stadium,74100,Africa,Egypt,Cairo,"Egypt national football team, Al Ahly, Zamalek"
+52,FirstEnergy Stadium,7320031,North America,United States,Cleveland,Cleveland Browns
+53,Estádio Nacional Mané Garrincha,72788,South America,Brazil,"Brasília, Distrito Federal","Brasília FC, Legião FC"
+54,Stadio Olimpico,72698,Europe,Italy,"Rome, Lazio","AS Roma, Lazio"
+55,Nissan Stadium ,7232732,Asia,Japan,"Yokohama, Kanagawa","Yokohama F Marinos, Yokohama Eagles"
+56,NRG Stadium,72220,North America,United States,"Houston, Texas","Houston Texans, Houston Dynamo FC"
+57,Shanghai Stadium,72000,Asia,China,Shanghai,Shanghai Shenhua
+58,MT Bank Stadium,7100833,North America,United States,Baltimore,Baltimore Ravens
+59,Mercedes-Benz Stadium,71000,North America,United States,"Atlanta, Georgia","Atlanta United FC, Atlanta Falcons"
+60,Riyadh Air Metropolitano,70692,Europe,Spain,Madrid,Atlético de Madrid
+61,Olympic National Sports Complex Stadium ,7000034,Europe,Ukraine,Kyiv,"Ukraine national football team, FC Dynamo Kyiv"
+62,SoFi Stadium,70000,North America,United States,"Inglewood, California",
+63,Seoul Olympic Stadium ,69950,Asia,South Korea,Seoul,
+64,Bakı Olimpiya stadionu ,69870,Asia,Azerbaijan,Baku,Azerbaijan national football team
+65,Olympic Stadium ,69618,Europe,Greece,"Marousi, Attica",Greece national football team
+66,Olympiastadion München,69250,Europe,Germany,Munich,
+67,Lumen Field,69000,North America,United States,"Seattle, Washington","Seattle Sounders FC, Seattle Seahawks"
+68,Estadio Olímpico Universitario,68954,North America,Mexico,Mexico City,UNAM Pumas
+69,Gillette Stadium,68756,North America,United States,"Foxborough, Massachusetts","New England Patriots, New England Revolution"
+70,King Abdullah Sports City Stadium ,68560,Asia,Saudi Arabia,Jeddah,"Saudi Arabia national football team, Al-Ahli Saudi FC, Al-Ittihad Saudi Club"
+71,Lincoln Financial Field,68532,North America,United States,Philadelphia,"Philadelphia Eagles, Temple Owls football"
+72,Levi's Stadium,68500,North America,United States,"Santa Clara, California",San Francisco 49ers
+73,Acrisure Stadium,6840035,North America,United States,Pittsburgh,"Pittsburgh Steelers, Pittsburgh Panthers football"
+74,Gazprom Arena,68134,Europe,Russia,Saint Petersburg,FC Zenit Saint Petersburg
+75,Salt Lake Stadium ,680003637,Asia,India,Kolkata,"India national football team, Mohun Bagan Super Giant, East Bengal FC, Mohammedan SC"
+76,National Stadium,68000,Asia,Japan,Tokyo,
+77,TIAA Bank Field,6781438,North America,United States,"Jacksonville, Florida",Jacksonville Jaguars
+78,Orange Vélodrome,67394,Europe,France,Marseille,Olympique de Marseille
+79,Puskás Aréna ,67215,Europe,Hungary,Budapest,Hungary national football team
+80,Scottish Gas Murrayfield Stadium,67144,Europe,Scotland,Edinburgh,Scotland national rugby union team
+81,Lucas Oil Stadium,67000,North America,United States,"Indianapolis, Indiana",Indianapolis Colts
+82,MorumBIS,66975,South America,Brazil,"São Paulo, São Paulo",São Paulo FC
+83,The Dome,66965,North America,United States,St Louis,St Louis BattleHawks
+84,Yadegar-e-Emam Stadium,66833,Asia,Iran,Tabriz,Tractor Sazi FC
+85,Seoul World Cup Stadium,66704,Asia,South Korea,Seoul,FC Seoul
+86,US Bank Stadium,66655,North America,United States,Minneapolis,Minnesota Vikings
+87,Daegu Stadium,66422,Asia,South Korea,Daegu,Daegu FC
+88,Workers' Stadium,66161,Asia,China,Beijing,"Beijing Guoan, China national football team"
+89,London Stadium,66000,Europe,England,London,West Ham United
+90,Raymond James Stadium,65847,North America,United States,"Tampa, Florida","Tampa Bay Buccaneers, South Florida Bulls football, Tampa Bay Vipers"
+91,Hard Rock Stadium,6532639,North America,United States,"Miami Gardens, Florida","Miami Dolphins, Miami Hurricanes football"
+92,Olympic Stadium ,65255,North America,Canada,"Montreal, Quebec",CF Montréal
+93,Basra International Stadium ,65227,Asia,Iraq,Basra,Iraq national football team
+94,Camping World Stadium,65000,North America,United States,"Orlando, Florida",
+95,Alamodome,65000,North America,United States,San Antonio,UTSA Roadrunners football
+96,Ford Field,65000,North America,United States,Detroit,Detroit Lions
+97,Stade Ibn Battuta,65000,Africa,Morocco,Tangier,IR Tanger
+98,Estádio do Sport Lisboa e Benfica ,64642,Europe,Portugal,Lisbon,Benfica
+99,Stade du 5-juillet-1962 ,6400040,Africa,Algeria,Algiers,Algeria national football team
+100,Castelão,63903,South America,Brazil,"Fortaleza, Ceará","Ceará SC, Fortaleza EC"
+101,Saitama Stadium 2002,6370041,Asia,Japan,Saitama,"Urawa Red Diamonds, Saitama Wild Knights"
+102,Ellis Park Stadium,62567,Africa,South Africa,"Johannesburg, Gauteng","Orlando Pirates FC, Emirates Johannesburg Lions"
+103,Tottenham Hotspur Stadium,6230342,Europe,England,London,Tottenham Hotspur
+104,VELTINS-Arena,62271,Europe,Germany,Gelsenkirchen,FC Schalke 04
+105,Yizhong Sports Centre Stadium,62000,Asia,China,"Qingdao, Shandong",Qingdao Jonoon FC
+106,Estádio Governador Magalhães Pinto,6184643,South America,Brazil,"Belo Horizonte, Minas Gerais","Atlético Mineiro, Cruzeiro EC"
+107,King Fahd International Stadium,61781,Asia,Saudi Arabia,Riyadh,"Saudi Arabia national football team, Al-Hilal, Al-Nassr, Al-Shabab"
+108,Soldier Field,61500,North America,United States,Chicago,Chicago Bears
+109,Nanjing Olympic Sports Centre Stadium,61443,Asia,China,"Nanjing, Jiangsu",
+110,Anfield,6127644,Europe,England,"Liverpool, England",Liverpool FC
+111,Estadio Benito Villamarín,60720,Europe,Spain,Seville,Real Betis
+112,Abuja Stadium ,60491,Africa,Nigeria,Abuja,Nigeria national football team
+113,MHPArena,60469,Europe,Germany,Stuttgart,VfB Stuttgart
+114,Celtic Park ,6041145,Europe,Scotland,Glasgow,Celtic FC
+115,Estadio de la UNSA,60370,South America,Peru,Arequipa,FBC Melgar
+116,Emirates Stadium,6033846,Europe,England,London,Arsenal
+117,Shenzhen Universiade Sports Centre Stadium,60334,Asia,China,"Shenzhen, Guangdong",
+118,Estadio Centenario ,60235,South America,Uruguay,Montevideo,Uruguay national football team
+119,Estádio José do Rego Maciel,60044,South America,Brazil,"Recife, Pernambuco",Santa Cruz FC
+120,Al-Bayt Stadium,60000,Asia,Qatar,Al-Khor,
+121,Benjamin Mkapa National Stadium ,60000,Africa,Tanzania,Dar es-Salaam,"Tanzania national football team, Young Africans"
+122,Hefei Olympic Sports Centre Stadium,60000,Asia,China,"Hefei, Anhui",Anhui Jiufang
+123,Jaber al-Ahmad International Stadium ,60000,Asia,Kuwait,Kuwait City,Kuwait national football team
+124,Hammadi Agrebi Stadium ,60000,Africa,Tunisia,Tunis,Tunisia national football team
+125,Jawaharlal Nehru Stadium,6000047,Asia,India,New Delhi,
+126,Mogadishu Stadium ,60000,Africa,Somalia,Mogadishu,Somalia national football team
+127,National Heroes Stadium ,60000,Africa,Zambia,Lusaka,Zambian national football team
+128,Autzen Stadium,60000,North America,United States,"Eugene, Oregon",
+129,Odi Stadium,60000,Africa,South Africa,"Mabopane, Gauteng",
+130,Morodok Techo National Stadium,60000,Asia,Cambodia,Phnom Penh,Cambodia national football team
+131,Shenyang Olympic Sports Centre Stadium,60000,Asia,China,"Shenyang, Liaoning",
+132,Optus Stadium,60000,Oceania,Australia,"Perth, Western Australia","Perth Glory FC, Fremantle Dockers, West Coast Eagles"
+133,Estadio Monumental Isidro Romero Carbo ,5928348,South America,Ecuador,Guayaquil,Barcelona Sporting Club
+134,Groupama Stadium,59186,Europe,France,Décines-Charpieu,Olympique Lyonnais
+135,Chongqing Olympic Sports Centre Stadium,58680,Asia,China,Chongqing,
+136,Kazimierz Górski National Stadium ,58580,Europe,Poland,Warsaw,Poland national football team
+137,Stadio San Nicola,58270,Europe,Italy,"Bari, Apulia",SSC Bari
+138,Commanders Field,58000,North America,United States,"Landover, Maryland",Washington Commanders
+139,Deutsche Bank Park,5800049,Europe,Germany,Frankfurt,Eintracht Frankfurt
+140,Estadio La Cartuja de Sevilla,57619,Europe,Spain,Seville,
+141,CarterFinley Stadium,5758350,North America,United States,"Raleigh, North Carolina",NC State Wolfpack football
+142,La Bombonera,57200,South America,Argentina,Buenos Aires,CA Boca Juniors
+143,Volksparkstadion,57030,Europe,Germany,Hamburg,Hamburger SV
+144,Estadio Mario Alberto Kempes,57000,South America,Argentina,Córdoba,"Talleres de Córdoba, some Belgrano de Córdoba matches"
+145,Jinan Olympic Sports Centre Stadium,56808,Asia,China,"Jinan, Shandong",Shandong Taishan
+146,Estadio Jalisco,5671351,North America,Mexico,"Guadalajara, Jalisco",Atlas
+147,Commonwealth Stadium,56302,North America,Canada,"Edmonton, Alberta","Edmonton Elks, Canadian men's and women's national teams"
+148,Dodger Stadium,56000,North America,United States,Los Angeles,Los Angeles Dodgers
+149,Stade du 19-mai-1956,56000,Africa,Algeria,Annaba,USM Annaba
+150,Estadi Olímpic Lluís Companys,55926,Europe,Spain,"Barcelona, Catalonia",
+151,Arena do Grêmio,55662,South America,Brazil,"Porto Alegre, Rio Grande do Sul",Grêmio FBPA
+152,Arena Națională ,55634,Europe,Romania,Bucharest,Romania national football team
+153,Stadion Rajko Mitić ,55538,Europe,Serbia,Belgrade,"Red Star Belgrade, Serbia national football team"
+154,Stadion Śląski,55211,Europe,Poland,Chorzów,"Poland national football team, Ruch Chorzów"
+155,Etihad Stadium,55097,Europe,England,"Manchester, North West England",Manchester City
+156,Mestalla,55000,Europe,Spain,Valencia,Valencia CF
+157,National Stadium ,55000,Asia,Singapore,Singapore,Singapore national football team
+158,National Stadium ,55000,Asia,Taiwan,Kaohsiung,Chinese Taipei national football team
+159,He Long Stadium,55000,Asia,China,"Changsha, Hunan",
+160,Cape Town Stadium,55000,Africa,South Africa,"Cape Town, Western Cape","Cape Town City FC, DHL Western Cape Stormers"
+161,Plovdiv Stadium ,55000,Europe,Bulgaria,Plovdiv,
+162,Bobby Dodd Stadium,55000,North America,United States,Atlanta,Georgia Tech Yellow Jackets football
+163,Johan Cruijff Arena ,5499052,Europe,Netherlands,Amsterdam,AFC Ajax
+164,Tianhe Stadium,54856,Asia,China,"Guangzhou, Guangdong",
+165,Stadio Diego Armando Maradona,54726,Europe,Italy,Naples,SSC Napoli
+166,Tianjin Olympic Sports Centre Stadium,54696,Asia,China,Tianjin,Tianjin Teda
+167,MERKUR SPIEL-ARENA,54600,Europe,Germany,Düsseldorf,Fortuna Düsseldorf
+168,Boris Paitchadze Dinamo Arena ,54549,Asia,Georgia,Tbilisi,"Georgia national football team, FC Dinamo Tbilisi"
+169,Wuhan Sports Centre Stadium,54357,Asia,China,"Wuhan, Hubei",
+170,BC Place Stadium,54320,North America,Canada,"Vancouver, British Columbia","Vancouver Whitecaps FC, BC Lions"
+171,Yankee Stadium,54251,North America,United States,New York City,"New York Yankees, New York City FC"
+172,Hrazdan Stadium ,54208,Asia,Armenia,Yerevan,"FC Ararat Yerevan, Ulisses FC"
+173,BORUSSIA-PARK,54057,Europe,Germany,Mönchengladbach,Borussia Mönchengladbach
+174,Moses Mabhida Stadium,54000,Africa,South Africa,"Durban, KwaZulu-Natal","AmaZulu FC, Cell C Durban Sharks"
+175,Busan Asiad Main Stadium,53864,Asia,South Korea,Busan,Busan IPark
+176,Estádio Estadual Jornalista Edgar Augusto Proença,53645,South America,Brazil,"Belém, Pará","Paysandu SC, Clube do Remo, Tuna Luso Brasileira, SC Belem"
+177,Estadio Único Diego Armando Maradona,53600,South America,Argentina,La Plata,
+178,Adelaide Oval,53500,Oceania,Australia,"Adelaide, South Australia","Adelaide Crows, Port Adelaide Power"
+179,Docklands Stadium,53359,Oceania,Australia,"Melbourne, Victoria","Western Bulldogs, Essendon, St Kilda, Carlton, North Melbourne"
+180,Estádio Municipal João Havelange,53350,South America,Brazil,"Uberlândia, Minas Gerais",Uberlânia EC
+181,San Mamés,53332,Europe,Spain,Bilbao,Athletic Bilbao
+182,Aleppo International Stadium ,53200,Asia,Syria,Aleppo,Al-Ittihad
+183,Estadio Nacional,53086,South America,Peru,Lima,Peru national football team
+184,Huanglong Stadium,52672,Asia,China,"Hangzhou, Zhejiang",Hangzhou FC
+185,RAMS Park,52652,Europe,Turkey,Istanbul,Galatasaray
+186,Suncorp Stadium,52500,Oceania,Australia,"Brisbane, Queensland","Brisbane Broncos, Queensland Maroons, Brisbane Roar FC, Queensland Reds"
+187,St James' Park,52405,Europe,England,"Newcastle upon Tyne, North East",Newcastle United
+188,Kings Park Stadium,52000,Africa,South Africa,"Durban, KwaZulu-Natal","Lamontville Golden Arrows, Cell C Durban Sharks"
+189,Newlands Stadium,51900,Africa,South Africa,"Cape Town, Western Cape",
+190,Hampden Park,5186653,Europe,Scotland,Glasgow,"Scotland national football team, Queen's Park"
+191,Estadio Monumental de Maturín ,51796,South America,Venezuela,Maturín,Monagas Sport Club
+192,Loftus Versfeld Stadium,51762,Africa,South Africa,"Pretoria, Gauteng",SuperSport United and Vodacom Pretoria Bulls
+193,Aviva Stadium ,51700,Europe,Ireland,Dublin,"Leinster Rugby, Republic of Ireland national football team, Ireland national rugby union team"
+194,Guiyang Olympic Sports Centre Stadium,51638,Asia,China,"Guiyang, Guizhou",
+195,Hohhot City Stadium,51632,Asia,China,"Hohhot, Inner Mongolia",
+196,Rajamangala National Stadium ,51552,Asia,Thailand,Bangkok,Thailand national football team
+197,Donbass Arena,51504,Europe,Ukraine,Donetsk,
+198,El Cilindro,51389,South America,Argentina,Avellaneda,Racing Club de Avellaneda
+199,İzmir Atatürk Stadyumu,51295,Asia,Turkey,İzmir,"Altay SK, Göztepe AŞ"
+200,Stadion Feijenoord,51117,Europe,Netherlands,Rotterdam,Feyenoord
+201,Estadio BBVA,5100054,North America,Mexico,Monterrey,CF Monterrey
+202,Ghadir Stadium,51000,Asia,Iran,Ahvaz,Foolad FC
+203,Estádio José Pinheiro Borda,50942,South America,Brazil,Porto Alegre Rio Grande do Sul,SC Internacional
+204,Ibrox Stadium,5081755,Europe,Scotland,Glasgow,Rangers FC
+205,Shizuoka Stadium,5088956,Asia,Japan,"Fukuroi, Shizuoka","Júbilo Iwata, Shimizu S-Pulse, Shizuoka Blue Revs"
+206,Ernst-Happel-Stadion ,50865,Europe,Austria,Vienna,Austria national football team
+207,Huntington Bank Stadium,50805,North America,United States,Minneapolis,Minnesota Golden Gophers football
+208,Estadio Cuauhtémoc,50754,North America,Mexico,Puebla,Puebla FC
+209,Strawberry Arena ,50653,Europe,Sweden,Solna,"Sweden men's national football team, AIK Fotboll"
+210,Ülker Stadyumu,50509,Asia,Turkey,Istanbul,Fenerbahçe
+211,Stanford Stadium,50424,North America,United States,"Palo Alto, California",
+212,Stade Pierre-Mauroy,50186,Europe,France,Villeneuve-d'Ascq,Lille OSC
+213,Stade Roi Baudouin ,50122,Europe,Belgium,Brussels,Belgium national football team
+214,Shaanxi Province Stadium,50100,Asia,China,"Xi'an, Shaanxi",
+215,Ajinomoto Stadium,50100,Asia,Japan,"Chofu, Tokyo","FC Tokyo, Tokyo Verdy, Tokyo Sungoliath, Toshiba Brave Lupus Tokyo"
+216,Estádio José Alvalade,50095,Europe,Portugal,Lisbon,Sporting CP
+217,Estádio do Dragão,50033,Europe,Portugal,Porto,FC Porto
+218,Casa de Apostas Arena Fonte Nova,50025,South America,Brazil,"Salvador, Bahia",EC Bahia
+219,Stade Olympique de Sousse,50000,Africa,Tunisia,Sousse,Étoile du Sahel
+220,RheinEnergieSTADION,50000,Europe,Germany,Cologne,1 FC Köln
+221,Harbin Sports City Centre Stadium,50000,Asia,China,"Harbin, Heilongjiang",
+222,Greenfield International Stadium,5000057,Asia,India,Trivandrum,
+223,EMS Stadium,50000,Asia,India,Kozhikode,"India national football team, Gokulam Kerala FC"
+224,KD Singh Babu Stadium,50000,Asia,India,Lucknow,
+225,Eden Park ,50000,Oceania,New Zealand,Auckland,"Auckland Blues, New Zealand Warriors"
+226,Estádio 11 de Novembro ,50000,Africa,Angola,Luanda,"Angola national football team, Primeiro de Agosto, Petro Luanda"
+227,Henan Provincial Stadium,50000,Asia,China,"Zhengzhou, Henan",
+228,Jiangxi Olympic Sports Center,50000,Asia,China,"Nanchang, Jiangxi",
+229,Max-Morlock-Stadion,50000,Europe,Germany,Nuremberg,1 FC Nürnberg
+230,June 11 Stadium ,50000,Africa,Libya,Tripoli,"Libya, Al-Ahly SC, Al-Ittihad Tripoli, Al-Madina SC"
+231,Xinjiang Sports Centre Stadium,50000,Asia,China,"Urumqi, Xinjiang",
+232,Kim Il-sung Stadium,50000,Asia,North Korea,Pyongyang,Pyongyang City Sports Club
+233,EDION Stadium Hiroshima,50000,Asia,Japan,Hiroshima,Sanfrecce Hiroshima
+234,Pars Shiraz Stadium,50000,Asia,Iran,Shiraz,Fajr Sepasi Shiraz FC
+235,Stade du 26 mars ,50000,Africa,Mali,Bamako,Stade Malien
+236,Stade Abdoulaye Wade,50000,Africa,Senegal,Dakar,Senegal national football team
+237,Sultan Mizan Zainal Abidin Stadium,50000,Asia,Malaysia,Kuala Terengganu,Terengganu FA
+238,Estadio Akron,49850,North America,Mexico,Guadalajara,CD Guadalajara
+239,Levy Mwanawasa Stadium,49800,Africa,Zambia,Lusaka,Zesco United
+240,Fritz-Walter-Stadion,49780,Europe,Germany,Kaiserslautern,1 FC Kaiserslautern
+241,Estadio José Amalfitani,49540,South America,Argentina,Buenos Aires,CA Vélez Sársfield
+242,Camille Chamoun Sports City Stadium ,4950058,Asia,Lebanon,Beirut,"Lebanon national football team, Al Ahed FC, Al Ansar FC, Nejmeh SC"
+243,Miyagi Stadium,49133,Asia,Japan,"Rifu, Miyagi",Vegalta Sendai
+244,Incheon Munhak Stadium,49084,Asia,South Korea,Incheon,
+245,Heinz-von-Heiden-Arena,49000,Europe,Germany,Hanover,Hannover 96
+246,Parc des Princes,48712,Europe,France,Paris,Paris Saint-Germain
+247,Stadium of Light,48707,Europe,England,"Sunderland, Tyne and Wear",Sunderland AFC
+248,Estadio Nacional ,48665,South America,Chile,Santiago,"Chile national football team, CF Universidad de Chile"
+249,Nelson Mandela Bay Stadium,48459,Africa,South Africa,"Port Elizabeth, Eastern Cape",Chippa United FC
+250,Estadio Tomás Adolfo Ducó,48314,South America,Argentina,Buenos Aires,CA Huracán
+251,Jinnah Sports Stadium ,48200,Asia,Pakistan,Islamabad,Pakistan national football team
+252,Estadio Libertadores de América,48069,South America,Argentina,Avellaneda,Club Atlético Independiente
+253,Free State Stadium,48000,Africa,South Africa,"Bloemfontein, Free State","Bloemfontein Celtic, Toyota Cheetahs"
+254,Nagai Stadium,47816,Asia,Japan,Osaka,"Cerezo Osaka, NTT DoCoMo Red Hurricanes Osaka"
+255,Neo Química Arena,47605,South America,Brazil,"São Paulo, São Paulo",Corinthians
+256,Rogers Centre,47568,North America,Canada,"Toronto, Ontario","Toronto FC, Toronto Argonauts"
+257,Estadio Monumental,47347,South America,Chile,Santiago,Colo-Colo
+258,Stadio Artemio Franchi,47282,Europe,Italy,Florence,ACF Fiorentina
+259,Estadio Ciudad de Lanús  Néstor Díaz Pérez,47027,South America,Argentina,Lanús,CA Lanús
+260,Estadio Metropolitano Roberto Meléndez,46788,South America,Colombia,Barranquilla,"Colombia national football team, Atlético Junior"
+261,Estádio Olímpico Nilton Santos,46831,South America,Brazil,"Rio de Janeiro, Rio de Janeiro",Botafogo FR
+262,Itaipava Arena Pernambuco,46154,South America,Brazil,"São Lourenço da Mata, Pernambuco",Náutico
+263,Arena MRV,46000,South America,Brazil,"Belo Horizonte, Minas Gerais",C Atlético Mineiro
+264,Estádio Paulo Constantino,45954,South America,Brazil,"Presidente Prudente, São Paulo",Grêmio Prudente
+265,Estadio Atanasio Girardot,45739,South America,Colombia,Medellín,"Atlético Nacional, Independiente Medellín"
+266,Estadio Ramón Sánchez Pizjuán,45500,Europe,Spain,Seville,Sevilla FC
+267,Adrar Stadium,45480,Africa,Morocco,Agadir,Hassania Agadir
+268,Lukoil Arena,45360,Europe,Russia,Moscow,Spartak Moscow
+269,Grand stade de Marrakech,45240,Africa,Morocco,Marrakesh,Kawkab Marrakech
+270,Mandela National Stadium ,45202,Africa,Uganda,Kampala,Uganda national football team
+271,Tarczyński Arena Wrocław,45105,Europe,Poland,Wrocław,Śląsk Wrocław
+272,Kazan Arena,45105,Europe,Russia,Kazan,Rubin Kazan
+273,Estadio Inca Garcilaso de la Vega,45056,South America,Peru,Cusco,"CS Cienciano, Deportivo Garcilaso, Cusco FC"
+274,Estádio da Machava ,45000,Africa,Mozambique,Maputo,Mozambique national football team
+275,Stadion Gelora Bung Tomo,45000,Asia,Indonesia,"Surabaya, East Java",Persebaya Surabaya
+276,Stadion Harapan Banga,45000,Asia,Indonesia,"Banda Aceh, Aceh","Persiraja, Aceh United"
+277,Estadio General Pablo Rojas ,45000,South America,Paraguay,Asunción,Club Cerro Porteño
+278,Stade Mohammed V ,4500059,Africa,Morocco,Casablanca,"Wydad, Raja"
+279,Latakia Sports City Stadium,45000,Asia,Syria,Latakia,
+280,Zibo Sports Centre Stadium,45000,Asia,China,"Zibo, Shandong",
+281,Weifang Sports Centre Stadium,45000,Asia,China,"Weifang, Shandong",
+282,Yantai Sports Park Stadium,45000,Asia,China,"Yantai, Shandong",
+283,Stadium Tuanku Abdul Rahman,45000,Asia,Malaysia,Seremban,"ATM FA, Negeri Sembilan"
+284,Stade du Complexe sportif de Fès,45000,Africa,Morocco,Fes,"Wydad de Fès, Maghreb de Fès"
+285,Lagos National Stadium,45000,Africa,Nigeria,Lagos,Nigeria national football team
+286,Egyptian Army Stadium,45000,Africa,Egypt,Suez,
+287,Toyota Stadium,45000,Asia,Japan,"Toyota City, Aichi","Nagoya Grampus, Toyota Verblitz"
+288,Zayed Sports City Stadium,4500060,Asia,United Arab Emirates,Abu Dhabi,
+289,Red Bull Arena,44345,Europe,Germany,Leipzig,RB Leipzig
+290,Estádio Governador Alberto Tavares Silva,44200,South America,Brazil,Teresina,"River AC, EC Flamengo, Piauí EC, SE Tiradentes, Auto EC"
+291,Estádio Universitário Pedro Pedrossian,44200,South America,Brazil,"Campo Grande, Mato Grosso do Sul","EC Comercial, Operário FC"
+292,Ulsan Munsu Football Stadium,44102,Asia,South Korea,Ulsan,Ulsan HD FC
+293,Arena Pantanal,44097,South America,Brazil,"Cuiabá, Mato Grosso","Cuiabá, Mixto EC"
+294,Arena da Amazônia,44000,South America,Brazil,"Manaus, Amazonas",Nacional FC
+295,Suwon World Cup Stadium,43959,Asia,South Korea,Suwon,Suwon Samsung Bluewings
+296,Stadion Utama Riau,43923,Asia,Indonesia,"Pekanbaru, Riau",PSPS Pekanbaru
+297,Allianz Parque,43713,South America,Brazil,"São Paulo, São Paulo",SE Palmeiras
+298,Shandong Provincial Stadium,43700,Asia,China,"Jinan, Shandong",
+299,Polsat Plus Arena Gdańsk,43615,Europe,Poland,Gdańsk,Lechia Gdańsk
+300,Estadio Pedro Bidegain,43494,South America,Argentina,Buenos Aires,CA San Lorenzo de Almagro
+301,Stadion Miejski w Poznaniu,43269,Europe,Poland,Poznań,"Lech Poznań, Warta Poznań"
+302,Vasil Levski National Stadium,43230,Europe,Bulgaria,Sofia,Bulgaria national football team
+303,Estadio Universidad San Marcos,43000,South America,Peru,Lima,Deportivo Universidad San Marcos
+304,Ullevi,43000,Europe,Sweden,Gothenburg,Sweden women's national football team
+305,Jinzhou Binhai Sports Centre Stadium,43000,Asia,China,Jinzhou,
+306,Estadio General Santander,42901,South America,Colombia,Cúcuta,Cúcuta Deportivo
+307,Villa Park,42682,Europe,England,"Birmingham, West Midlands",Aston Villa
+308,Perak Stadium,42500,Asia,Malaysia,Perak,Perak FA
+309,Jeonju World Cup Stadium,42477,Asia,South Korea,Jeonju,Jeonbuk Hyundai Motors FC
+310,Ligga Arena,42372,South America,Brazil,"Curitiba, Paraná",Athletico Paranaense
+311,Weserstadion,42358,Europe,Germany,Bremen,SV Werder Bremen
+312,Denka Big Swan Stadium,42300,Asia,Japan,"Niigata, Niigata",Albirex Niigata
+313,Estadio Olimpico Metropolitano de Mérida,42200,South America,Venezuela,Mérida,Estudiantes de Mérida
+314,Daejeon World Cup Stadium,42176,Asia,South Korea,Daejeon,Daejeon Citizen
+315,Matmut ATLANTIQUE,42115,Europe,France,Bordeaux,FC Girondins de Bordeaux
+316,Helsingin Olympiastadion ,42062,Europe,Finland,Helsinki,Finland national football team
+317,Estádio Serra Dourada,42000,South America,Brazil,"Goiânia, Goiás","Goiás Esporte Clube, Vila Nova, Atlético Goianiense"
+318,Estadio Deportivo Cali ,42000,South America,Colombia,Cali,Deportivo Cali
+319,Estadio Modelo Alberto Spencer,42000,South America,Ecuador,Guayaquil,"Club Sport Patria, Club Deportivo Everest, Panamá Sporting Club, Rocafuerte Fútbol Club"
+320,Estádio do Zimpeto,42000,Africa,Mozambique,Maputo,Mozambique national football team
+321,Chengdu Sports Centre Stadium,42000,Asia,China,"Chengdu, Sichuan",
+322,Royal Bafokeng Stadium,42000,Africa,South Africa,"Phokeng, North West",
+323,Estadio Universitario,42000,North America,Mexico,San Nicolás de los Garza,Tigres de la UANL
+324,Estadio Brigadier General Estanislao López,42000,South America,Argentina,Santa Fe,Club Atlético Colón
+325,Estadio Marcelo Bielsa,42000,South America,Argentina,Rosario,Newell's Old Boys
+326,Stade Geoffroy-Guichard,41965,Europe,France,Saint-Étienne,AS Saint-Étienne
+327,Vodafone Park,41903,Europe,Turkey,Istanbul,Beşiktaş JK
+328,Peter Mokaba Stadium,41733,Africa,South Africa,Polokwane,Polokwane City FC
+329,Estadio Gigante de Arroyito,41654,South America,Argentina,Rosario,Rosario Central
+330,Estadio Cachamay,41600,South America,Venezuela,Ciudad Guayana,"Atlético Club Mineros de Guayana, AC Minervén FC"
+331,Estadio de Liga Deportiva Universitaria,41596,South America,Ecuador,Quito,LDU
+332,Allianz Stadium,41507,Europe,Italy,"Turin, Piedmont",Juventus FC
+333,Sapporo Dome,41484,Asia,Japan,"Sapporo, Hokkaido",Hokkaido Consadole Sapporo
+334,Stamford Bridge,41663,Europe,England,London,Chelsea
+335,Goyang Stadium,41311,Asia,South Korea,Goyang,
+336,Estadio Hernando Siles ,41143,South America,Bolivia,La Paz,"La Paz FC, Club Bolívar, The Strongest"
+337,Bingu National Stadium,41100,Africa,Malawi,Lilongwe,"Flames, Big Bullets FC"
+338,Mbombela Stadium,40929,Africa,South Africa,"Nelspruit, Mpumalanga",
+339,Estadio José Pachencho Romero,40800,South America,Venezuela,Maracaibo,"Deportivo JBL del Zulia, Deportivo Rayo Zuliano"
+340,Stade Nelson Mandela,40784,Africa,Algeria,Algiers,Algeria national football team
+341,Kashima Football Stadium,40728,Asia,Japan,"Kashima, Ibaraki",Kashima Antlers
+342,Baba Yara Stadium ,40528,Africa,Ghana,Kumasi,"Asante Kotoko, King Faisal Babes"
+343,Estádio Major Antônio Couto Pereira,40502,South America,Brazil,"Curitiba, Paraná",Coritiba Foot Ball Club
+344,Stage Front Stadium,40500,Europe,Spain,Barcelona,RCD Espanyol
+345,Estadio Metropolitano de fútbol de Lara,40312,South America,Venezuela,Barquisimeto,Unión Lara
+346,Estadio Malvinas Argentinas,40268,South America,Argentina,Mendoza,Godoy Cruz Antonio Tomba
+347,Stadion Lukas Enembe,40263,Asia,Indonesia,Nolokla,Persipura Jayapura
+348,Gwangju World Cup Stadium,40245,Asia,South Korea,Gwangju,Gwangju FC
+349,Sân vận động Quốc gia Mỹ Đình ,40192,Asia,Vietnam,Hanoi,Vietnam national football team
+350,Goodison Park,40157,Europe,England,"Liverpool, North West",Everton FC
+351,Estádio Governador João Castelo,40149,South America,Brazil,"São Luís, Maranhão","Sampaio Corrêa FC, Moto Club SL, Maranhão AC"
+352,Stade Miloud-Hadefi,40143,Africa,Algeria,Oran,"Algeria national football team, MC Oran"
+353,Estadio Campeón del Siglo,40005,South America,Uruguay,Montevideo,Club Atlético Peñarol
+354,Metalist Stadium,40003,Europe,Ukraine,Kharkiv,"FC Metalist Kharkiv, FC Shakhtar Donetsk"
+355,Al-Janoub Stadium,40000,Asia,Qatar,Al-Wakrah,
+356,Al-Thumama Stadium,40000,Asia,Qatar,Al-Thumama,
+357,Stade Ahmed-Zabana,40000,Africa,Algeria,Oran,MC Oran
+358,Stadion Batakan,40000,Asia,Indonesia,"Balikpapan, East Kalimantan",Persiba Balikpapan
+359,Stadion Gelora Joko Samudro,40000,Asia,Indonesia,"Gresik, East Java",Gresik United
+360,Fisht Olympic Stadium,40000,Europe,Russia,Sochi,
+361,Rentschler Field,40000,North America,United States,"East Hartford, Connecticut",
+362,Jawaharlal Nehru Stadium,40000,Asia,India,Kochi,"Kerala Blasters, India national football team"
+363,Hang Jebat Stadium,40000,Asia,Malaysia,Malacca,Melaka United
+364,Hong Kong Stadium ,40000,Asia,Hong Kong,So Kon Po,South China AA
+365,Stadium Negeri Pulau Pinang,40000,Asia,Malaysia,Batu Kawan,Penang FA
+366,Accra Sports Stadium,40000,Africa,Ghana,Accra,"Accra Hearts of Oak SC, Great Olympics"
+367,Sarawak Stadium,40000,Asia,Malaysia,Kuching,Sarawak FA
+368,Bogyoke Aung San Stadium ,40000,Asia,Myanmar,Yangon,Yangon United FC
+369,Resonac Dome Ōita,40000,Asia,Japan,Ōita,Ōita Trinita
+370,Stadium Darul Makmur,40000,Asia,Malaysia,Kuantan,Pahang FA
+371,Khalifa International Stadium,40000,Asia,Qatar,Doha,Qatar national football team
+372,Stade de lAmitié sino-gabonaise ,40000,Africa,Gabon,Libreville,Gabon national football team
+373,Peoples Football Stadium,40000,Asia,Pakistan,Karachi,Pakistan national football team
+374,JRD Tata Sports Complex Stadium,40000,Asia,India,Jamshedpur,"Jamshedpur FC, Tata Football Academy"
+375,Bao'an Stadium,40000,Asia,China,"Shenzhen, Guangdong",
+376,Kunming Tuodong Sports Centre Stadium,40000,Asia,China,"Kunming, Yunnan",China national football team
+377,Taizhou Sports Centre Stadium,40000,Asia,China,"Taizhou, Zhejiang",
+378,Wuhu Olympic Stadium,40000,Asia,China,"Wuhu, Anhui",
+379,Huizhou Olympic Stadium,40000,Asia,China,"Huizhou, Guangdong",

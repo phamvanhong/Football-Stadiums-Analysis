@@ -16,7 +16,7 @@ default_args = {
         "cols_drop": ["Images"],
         "cols_rename": 
         {
-            "Rank": "stadium_id", 
+            "rank": "stadium_id", 
             "home team(s)": "home_teams", 
             "seating capacity": "capacity",
             "region": "continent",

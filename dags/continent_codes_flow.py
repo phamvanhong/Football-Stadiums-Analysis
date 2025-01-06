@@ -6,7 +6,7 @@ from airflow.operators.python import PythonOperator
 from airflow import DAG
 from datetime import datetime
 
-
+#Nếu không thể load, thì phải vào airflow cài lại azure_storage_key
 azure_storage_key = Variable.get("azure_storage_key", default_var=None)
 
 default_args = {
@@ -20,7 +20,7 @@ default_args = {
         ],
         "cols_rename":
         {
-            "Output": "continent_id",
+            "output": "continent_id",
         },
         "target_table_index": 1,
         "file_name": ('continent_codes_' + str(datetime.now().date())

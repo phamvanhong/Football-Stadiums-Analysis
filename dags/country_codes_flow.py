@@ -18,13 +18,13 @@ default_args = {
         [
             "Alpha-3 code",
             "Link to ISO 3166-2",
-            "Independent[b]"
+            "Independent[b]",
+            "Numeric code"
         ],
         "cols_rename":
         {
             "english short name (using title case)": "country",
             "alpha-2 code": "country_id", 
-            "numeric code": "country_numeric_id"
         },
         "target_table_index": 1,
         "file_name": ('country_codes_' + str(datetime.now().date())
