@@ -34,11 +34,11 @@ def transform_data(**kwargs):
     data = pd.DataFrame(data)
 
     # Transform the data
-    football_stadium_df = etl.transform(data, 
+    country_df = etl.transform(data, 
                                         cols_drop=kwargs["cols_drop"], 
                                         cols_rename=kwargs["cols_rename"])
     # Push the transformed data to XCom
-    kwargs['ti'].xcom_push(key='country_codes_data', value=football_stadium_df.to_json(orient='records'))
+    kwargs['ti'].xcom_push(key='country_codes_data', value=country_df.to_json(orient='records'))
 
     return "Data transformed and pushed to XCom"
 
