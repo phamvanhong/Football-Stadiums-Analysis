@@ -28,3 +28,16 @@ CREATE TABLE fact_footballstadiums (
     FOREIGN KEY (country_id) REFERENCES Dim_Country(country_id),
     FOREIGN KEY (continent_id) REFERENCES Dim_Continent(continent_id)
 );
+
+-- CREATE A TEMP TABLE TO IMPORT DATA FROM ready_footballstadiums.csv
+CREATE TABLE temp_stadiums (
+    stadium_id INT PRIMARY KEY,
+    stadium VARCHAR(255),
+    capacity INT,
+    continent VARCHAR(255),
+    country VARCHAR(255),
+    city VARCHAR(255),
+    home_teams TEXT,
+    country_id VARCHAR(5),
+    continent_id VARCHAR(5)
+);
