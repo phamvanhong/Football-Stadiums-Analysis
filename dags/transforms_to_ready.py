@@ -13,8 +13,7 @@ default_args = {
     'start_date': datetime(2024, 12, 22),
     "op_kwargs": {
         "url": " ",
-        "file_name": ('ready_football_stadiums_' + str(datetime.now().date())
-                 + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),
+        "file_name": 'ready_football_stadiums.csv',
         "dir": "ready/",
         "azure_storage_key": Variable.get("azure_storage_key", default_var=None),
     }
