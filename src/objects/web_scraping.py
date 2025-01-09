@@ -16,9 +16,14 @@ class WebScraping:
         html = self.get_html()
         return BeautifulSoup(html, 'html.parser')
 
-    def get_html_element(self, tag_name):
+    def get_html_element(self, tag_name: str) -> list:
         """
         Extracts all HTML tab elements from the webpage
+
+        Args:
+            tag_name: str - the tag name to extract
+        Returns:
+            list - a list of all the elements with the tag name
         """
         soup = self.get_soup()
         elements = soup.find_all(tag_name)

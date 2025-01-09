@@ -1,30 +1,40 @@
 import sys
 sys.path.insert(0, '/opt/airflow/src/')
 from objects.web_scraping import WebScraping
+from common.common import *
 import pandas as pd
 import re
 
 
 class ETL:
-    def __init__(self, url):
+    """
+    Initialize the ETL object
+    """
+    def __init__(self, url: str) -> None:
         self.url = url
     
-    def extract_(self):
+    def extract(self):
         """
         Extracts list of tables from the webpage
         """
         # Setup variables
         target_table = []
         ws = WebScraping(self.url)
-        table_elements = ws.get_html_element('table')
+        table_elements = ws.get_html_element(TABLE)
 
         for table in table_elements:
             target_table.append(pd.read_html(str(table))[0])
         return target_table
     
-    def transform(self, data: pd.DataFrame, **kwargs):
+    def transform(self, data: pd.DataFrame, **kwargs) -> pd.DataFrame:
         """
         Transform the data
+
+        Args:
+            data: pd.DataFrame - the data to transform
+            **kwargs - additional arguments
+        Returns:
+            pd.DataFrame - the transformed data
         """
         # Handle duplicates
         data = data.drop_duplicates().reset_index(drop=True)
@@ -37,7 +47,7 @@ class ETL:
 
         # rename columns
         data.columns = [col.lower() for col in data.columns]
-        data = data.rename(columns=kwargs['cols_rename'])
+        data = data.rename(columns=kwargs[COLS_RENAME])
 
         return data
     
@@ -45,7 +55,7 @@ class ETL:
              file_name: str, 
              azure_storage_key: str, 
              dir: str,
-             layer: str):
+             layer: str) -> str:
         """
         Load the data to the data lake
 
@@ -61,6 +71,6 @@ class ETL:
         
         data.to_csv(path,
                 storage_options={
-                    'account_key': azure_storage_key
+                ACCOUNT_KEY : azure_storage_key
                 }, index=False)
         return "Data loaded to the data lake"
