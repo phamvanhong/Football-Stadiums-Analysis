@@ -3,7 +3,7 @@ sys.path.insert(0, '/opt/airflow/src/')
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from pipelines.extract.extract_raw_wikipedia_data import extract_wikipedia_data
+from pipelines.extract.extract_wikipedia_data import extract_wikipedia_data
 from airflow.models import Variable
 
 azure_storage_key = Variable.get("azure_storage_key", default_var= None)
@@ -22,8 +22,7 @@ default_args = {
                         'country',
                         'continent'
                     ],
-        "target_table_indexes": [2, 1, 1],
-        "azure_storage_key": azure_storage_key,
+        "target_table_indexes": [2, 1, 1]
     }
 }
 
