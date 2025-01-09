@@ -3,9 +3,9 @@ sys.path.insert(0, '/opt/airflow/src/')
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from pipelines.load.load_data import load_raw_data
+from pipelines.load.load_data import load_data
 from pipelines.extract.extract_wikipedia_data import extract_wikipedia_data
-from pipelines.transform.transform_data import transform_data
+from pipelines.transform.transform_data import transform_extracted_data
 from airflow.models import Variable
 
 
@@ -57,7 +57,7 @@ default_args = {
 }
 
 with DAG(
-    dag_id='test_pipelines',
+    dag_id='etl_flow',
     default_args=default_args,
     schedule_interval=None,
     catchup=False,
@@ -68,13 +68,13 @@ with DAG(
         provide_context=True
     )
     transform_wikipedia_data = PythonOperator(
-        task_id="transform_wikipedia_data",
-        python_callable=transform_data,
+        task_id="transform_extracted_data",
+        python_callable=transform_extracted_data,
         provide_context=True
     )
     load_to_bronze = PythonOperator(
         task_id="load_to_bronze",
-        python_callable=load_raw_data,
+        python_callable=load_data,
         op_kwargs={
             "layer": "BRONZE",
             "dirs": default_args["op_kwargs"]["dirs"],
@@ -84,7 +84,7 @@ with DAG(
     )
     load_to_silver = PythonOperator(
         task_id="load_to_silver",
-        python_callable=load_raw_data,
+        python_callable=load_data,
         op_kwargs={
             "layer": "SILVER",
             "dirs": default_args["op_kwargs"]["dirs"], 

@@ -5,11 +5,16 @@ import pandas as pd
 from objects.etl import ETL
 
 
-def transform_football_stadiums_data(dataframe: pd.DataFrame):
+def transform_football_stadiums_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     """
-    Transform the data
+    Additional transformation for the football_stadiums_data dataset
+    
+    Args:
+        dataframe: pd.DataFrame - the dataframe to transform
+    Returns:
+        pd.DataFrame - the transformed
     """
-    # Transform the data
+
     football_stadium_df = dataframe
     # Remove commas from the Capacity column
     football_stadium_df['capacity'] = football_stadium_df['capacity'].str.replace(
@@ -21,18 +26,23 @@ def transform_football_stadiums_data(dataframe: pd.DataFrame):
     return football_stadium_df
 
 
-def transform_continent_data(dataframe: pd.DataFrame):
+def transform_continent_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     """
-    Transform the data
+    Additional transformation for the continent_data dataset
+
+    Args:
+        dataframe: pd.DataFrame - the dataframe to transform
+    Returns:
+        pd.DataFrame - the transformed
     """
     continent_df = dataframe
     continent_df['continent_id'] = continent_df['continent_id'].fillna("NA")
     return continent_df
 
 
-def transform_data(**kwargs):
+def transform_extracted_data(**kwargs):
     """
-    Transform the data
+    Transform all datasets
     """
     # Setup variables
     file_names = kwargs['file_names']
@@ -41,11 +51,11 @@ def transform_data(**kwargs):
     url = ""
     etl = ETL(url)
 
-    # Transform each dataset
+    # Transform all datasets
     for i in range(len(file_names)):
         data = kwargs['ti'].xcom_pull(key=file_names[i],
                                       task_ids='extract_wikipedia_data',
-                                      dag_id='test_pipelines',
+                                      dag_id='etl_flow',
                                       include_prior_dates=True)
         df = pd.DataFrame(json.loads(data))
   
@@ -55,9 +65,9 @@ def transform_data(**kwargs):
                            cols_rename=cols_rename[i])
         
         # Additional transformation for specific datasets
-        if file_names[i] == 'football_stadiums_data':
+        if file_names[i] == 'football_stadiums':
             df = transform_football_stadiums_data(df)
-        elif file_names[i] == 'continent_data':
+        elif file_names[i] == 'continent':
             df = transform_continent_data(df)
 
         # Push the transformed data to XCom

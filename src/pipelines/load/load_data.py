@@ -7,7 +7,7 @@ from datetime import datetime
 
 def load_data(**kwargs):
     """
-    Load data to the data lake
+    Load data to the different layers of the data lake
     """
     # Setup variables
     dirs = kwargs['dirs']
@@ -17,11 +17,8 @@ def load_data(**kwargs):
     layer = kwargs.get('layer', 'BRONZE')
     task_ids = {
         "BRONZE": "extract_wikipedia_data",
-        "SILVER": "transform_wikipedia_data",
+        "SILVER": "transform_extracted_data",
     }
-    # Kiểm tra layer hợp lệ
-    if layer not in task_ids:
-        raise ValueError(f"Layer {layer} is not valid. Use 'BRONZE' or 'SILVER'.")
 
     for i in range(len(file_names)):
         file_name = file_names[i]
@@ -31,7 +28,7 @@ def load_data(**kwargs):
         
         data = kwargs['ti'].xcom_pull(key=file_name, 
                                     task_ids=task_ids[layer],
-                                    dag_id="test_pipelines",
+                                    dag_id="etl_flow",
                                     include_prior_dates=True)
         df = pd.DataFrame(json.loads(data))
         
