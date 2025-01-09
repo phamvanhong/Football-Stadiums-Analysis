@@ -48,9 +48,10 @@ class ETL:
         file_name = kwargs['file_name']
         account_key = kwargs['azure_storage_key']
         dir = kwargs['dir']
+        layer = kwargs['layer']
         
         # abfs://<container>@<storage-account>.dfs.core.windows.net/<directory>/<file>
-        path = f'abfs://footballstadiums@footballstadiumsdata.dfs.core.windows.net/data/{dir}/{file_name}'
+        path = f'abfs://footballstadiums@footballstadiumsdata.dfs.core.windows.net/data/{layer}/{dir}/{file_name}'
         
         data.to_csv(path,
                 storage_options={

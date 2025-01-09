@@ -48,9 +48,9 @@ default_args = {
             }
         ],
         "dirs": [
-            "bronze/football_stadiums/",
-            "bronze/country/",
-            "bronze/continent/"
+            "football_stadiums/",
+            "country/",
+            "continent/"
         ],
         "azure_storage_key": azure_storage_key,
     }
@@ -72,9 +72,25 @@ with DAG(
         python_callable=transform_data,
         provide_context=True
     )
-    load_wikipedia_data = PythonOperator(
-        task_id="load_wikipedia_data",
+    load_to_bronze = PythonOperator(
+        task_id="load_to_bronze",
         python_callable=load_raw_data,
+        op_kwargs={
+            "layer": "BRONZE",
+            "dirs": default_args["op_kwargs"]["dirs"],
+            "file_names": default_args["op_kwargs"]["file_names"],
+            "azure_storage_key": azure_storage_key},
         provide_context=True
     )
-    extract_wikipedia_data >> load_wikipedia_data >> transform_wikipedia_data
+    load_to_silver = PythonOperator(
+        task_id="load_to_silver",
+        python_callable=load_raw_data,
+        op_kwargs={
+            "layer": "SILVER",
+            "dirs": default_args["op_kwargs"]["dirs"], 
+            "file_names": default_args["op_kwargs"]["file_names"],
+            "azure_storage_key": azure_storage_key
+        },
+        provide_context=True
+    )
+    extract_wikipedia_data >> load_to_bronze >> transform_wikipedia_data >> load_to_silver

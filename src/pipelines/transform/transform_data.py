@@ -45,7 +45,7 @@ def transform_data(**kwargs):
     for i in range(len(file_names)):
         data = kwargs['ti'].xcom_pull(key=file_names[i],
                                       task_ids='extract_wikipedia_data',
-                                      dag_id='test_extract',
+                                      dag_id='test_pipelines',
                                       include_prior_dates=True)
         df = pd.DataFrame(json.loads(data))
   
