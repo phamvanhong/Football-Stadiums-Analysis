@@ -20,12 +20,8 @@ def extract_wikipedia_data(**kwargs):
         etl = ETL(url)  # Tạo đối tượng ETL với URL hiện tại
         tables = etl.extract_()  # Trích xuất tất cả các bảng từ URL
     
-        # Kiểm tra xem index có hợp lệ không
-        if target_table_index < len(tables):
-            json_target_table = tables[target_table_index].to_json(orient='records')
-            kwargs['ti'].xcom_push(key=f'{file_name}_data', value=json_target_table)
-        else:
-            print(f"Error: URL '{url}' does not have table at index {target_table_index}")
+        json_target_table = tables[target_table_index].to_json(orient='records')
+        kwargs['ti'].xcom_push(key=f'{file_name}_data', value=json_target_table)
     return "Data extracted and pushed to XCom"
 
 
