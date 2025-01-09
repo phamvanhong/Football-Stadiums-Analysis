@@ -21,7 +21,7 @@ def load_raw_data(**kwargs):
         dir = dirs[i]
 
         csv_filename = f"{file_name}_{current_time}.csv"
-
+        
         data = kwargs['ti'].xcom_pull(key=file_name, 
                                       task_ids='extract_wikipedia_data',
                                       dag_id='test_extract',
