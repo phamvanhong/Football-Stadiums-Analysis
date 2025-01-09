@@ -15,9 +15,9 @@ default_args = {
         "url": " ",
         "azure_storage_key": azure_storage_key,
         "dirs": [
-            "data/bronze/football_stadiums/",
-            "data/bronze/country/",
-            "data/bronze/continent/"
+            "bronze/football_stadiums/",
+            "bronze/country/",
+            "bronze/continent/"
         ],
         "file_names": [
             'football_stadiums_',

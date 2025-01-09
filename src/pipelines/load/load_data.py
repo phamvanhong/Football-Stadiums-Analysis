@@ -7,7 +7,7 @@ from datetime import datetime
 
 def load_raw_data(**kwargs):
     """
-    Load raw data to the BRONZE layer on the data lake
+    Load data to the data lake
     """
     # Setup variables
     keys = kwargs['keys']

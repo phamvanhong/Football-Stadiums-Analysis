@@ -43,17 +43,17 @@ class ETL:
     
     def load(self, data: pd.DataFrame, **kwargs):
         """
-        Load the data to the database
+        Load the data to the data lake
         """
         file_name = kwargs['file_name']
         account_key = kwargs['azure_storage_key']
         dir = kwargs['dir']
         
         # abfs://<container>@<storage-account>.dfs.core.windows.net/<directory>/<file>
-        path = f'abfs://footballstadiums@footballstadiumsdata.dfs.core.windows.net/{dir}/{file_name}'
+        path = f'abfs://footballstadiums@footballstadiumsdata.dfs.core.windows.net/data/{dir}/{file_name}'
         
         data.to_csv(path,
                 storage_options={
                     'account_key': account_key
                 }, index=False)
-        return "Data loaded to the database"
+        return "Data loaded to the data lake"
