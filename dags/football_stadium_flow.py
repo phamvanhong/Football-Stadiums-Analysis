@@ -24,7 +24,7 @@ default_args = {
         "target_table_index": 2,
         "file_name": ('football_stadiums_' + str(datetime.now().date())
                  + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),
-        "dir": "raw_data/football_stadiums_data",
+        "dir": "raw/football_stadiums",
         "azure_storage_key": azure_storage_key,
     }
     

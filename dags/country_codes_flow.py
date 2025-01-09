@@ -29,7 +29,7 @@ default_args = {
         "target_table_index": 1,
         "file_name": ('country_codes_' + str(datetime.now().date())
                       + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),
-        "dir": "raw_data/country_codes_data",
+        "dir": "raw/country",
         "azure_storage_key": azure_storage_key,
     }
 

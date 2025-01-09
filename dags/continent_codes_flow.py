@@ -25,7 +25,7 @@ default_args = {
         "target_table_index": 1,
         "file_name": ('continent_codes_' + str(datetime.now().date())
                       + "_" + str(datetime.now().time()).replace(":", "_") + '.csv'),
-        "dir": "raw_data/continent_codes_data",
+        "dir": "raw/continent",
         "azure_storage_key": azure_storage_key,
     }
 
