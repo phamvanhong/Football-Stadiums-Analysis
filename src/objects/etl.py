@@ -3,8 +3,6 @@ sys.path.insert(0, '/opt/airflow/src/')
 from objects.web_scraping import WebScraping
 import pandas as pd
 import re
-from datetime import datetime
-import json
 
 
 class ETL:
