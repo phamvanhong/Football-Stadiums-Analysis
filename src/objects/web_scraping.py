@@ -14,7 +14,7 @@ class WebScraping:
 
     def get_soup(self):
         html = self.get_html()
-        return BeautifulSoup(html, 'html.parser')
+        return BeautifulSoup(html, "html.parser")
 
     def get_html_element(self, tag_name: str) -> list:
         """

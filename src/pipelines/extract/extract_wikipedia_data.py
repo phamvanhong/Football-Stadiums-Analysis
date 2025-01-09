@@ -1,12 +1,17 @@
 import sys
 sys.path.insert(0, '/opt/airflow/src/')
 from objects.etl import ETL
-from common.common import *
+from common.constants import *
 
 
-def extract_wikipedia_data(**kwargs):
+def extract_wikipedia_data(**kwargs) -> str:
     """
     Extracts data sources from the wikipedia
+
+    Args:
+        **kwargs - additional arguments
+    Returns:
+        str - a message
     """
     # Setup variables
     urls = kwargs[URLS]

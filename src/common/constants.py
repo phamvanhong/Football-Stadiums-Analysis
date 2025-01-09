@@ -5,16 +5,14 @@ URLS = "urls"
 COLS_RENAME = "cols_rename"
 COLS_DROP = "cols_drop"
 AZURE_STORAGE_KEY = "azure_storage_key"
-LAYER = "layer"
-FOOTBALL_STADIUMS = "football_stadiums"
-COUNTRY = "country"
-CONTINENT = "continent"
 RECORDS = "records"
 TI = "ti"
 EMPTY_STRING = ""
 TABLE = "table"
 TARGET_TABLE_INDEXES = "target_table_indexes"
 ACCOUNT_KEY = "account_key"
+CSV = "csv"
+OP_KWARGS = "op_kwargs"
 
 # Task IDs
 EXTRACT_WIKIPEDIA_DATA = "extract_wikipedia_data"
@@ -25,6 +23,13 @@ ETL_FLOW = "etl_flow"
 
 
 # LAYER
+LAYER = "layer"
 BRONZE = "BRONZE"
 SILVER = "SILVER"
+
+# File names and columns
+FOOTBALL_STADIUMS = "football_stadiums"
+COUNTRY = "country"
+CONTINENT = "continent"
+
 

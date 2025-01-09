@@ -1,7 +1,7 @@
 import sys
 sys.path.insert(0, '/opt/airflow/src/')
 from objects.web_scraping import WebScraping
-from common.common import *
+from common.constants import *
 import pandas as pd
 import re
 
