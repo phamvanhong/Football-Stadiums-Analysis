@@ -35,15 +35,15 @@ def transform_data(**kwargs):
     Transform the data
     """
     # Setup variables
-    keys = kwargs['keys']
+    file_names = kwargs['file_names']
     cols_drop = kwargs['cols_drop']
     cols_rename = kwargs['cols_rename']
     url = ""
     etl = ETL(url)
 
     # Transform each dataset
-    for i in range(len(keys)):
-        data = kwargs['ti'].xcom_pull(key=keys[i],
+    for i in range(len(file_names)):
+        data = kwargs['ti'].xcom_pull(key=file_names[i],
                                       task_ids='extract_wikipedia_data',
                                       dag_id='test_extract',
                                       include_prior_dates=True)
@@ -55,12 +55,12 @@ def transform_data(**kwargs):
                            cols_rename=cols_rename[i])
         
         # Additional transformation for specific datasets
-        if keys[i] == 'football_stadiums_data':
+        if file_names[i] == 'football_stadiums_data':
             df = transform_football_stadiums_data(df)
-        elif keys[i] == 'continent_data':
+        elif file_names[i] == 'continent_data':
             df = transform_continent_data(df)
 
         # Push the transformed data to XCom
-        kwargs['ti'].xcom_push(key=keys[i],
+        kwargs['ti'].xcom_push(key=file_names[i],
                             value=df.to_json(orient='records'))
     return "Data transformed and pushed to XCom"

@@ -10,27 +10,26 @@ def load_raw_data(**kwargs):
     Load data to the data lake
     """
     # Setup variables
-    keys = kwargs['keys']
-    url = kwargs['url']
+    url = ""
     dirs = kwargs['dirs']
     file_names = kwargs['file_names']
     etl = ETL(url)
     current_time = datetime.now().strftime("%Y_%m_%d_%H%M%S")
 
-    for i in range(len(keys)):
-        key = keys[i]
+    for i in range(len(file_names)):
+        file_name = file_names[i]
         dir = dirs[i]
 
-        file_name = f"{file_names[i]}_{current_time}.csv"
+        csv_filename = f"{file_name}_{current_time}.csv"
 
-        data = kwargs['ti'].xcom_pull(key=key, 
+        data = kwargs['ti'].xcom_pull(key=file_name, 
                                       task_ids='extract_wikipedia_data',
                                       dag_id='test_extract',
                                       include_prior_dates=True)
         df = pd.DataFrame(json.loads(data))
         
         etl.load(df,
-                 file_name=file_name, 
+                 file_name=csv_filename, 
                  azure_storage_key=kwargs['azure_storage_key'], 
                  dir=dir)
     return "Data loaded to the data lake"

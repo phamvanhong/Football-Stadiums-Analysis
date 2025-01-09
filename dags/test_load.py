@@ -12,7 +12,6 @@ default_args = {
     'owner': 'Hong Pham Van',
     'start_date': datetime(2024, 12, 22),
     "op_kwargs": {
-        "url": " ",
         "azure_storage_key": azure_storage_key,
         "dirs": [
             "bronze/football_stadiums/",
@@ -20,14 +19,9 @@ default_args = {
             "bronze/continent/"
         ],
         "file_names": [
-            'football_stadiums_',
-            'country_',
-            'continent_'
-        ],
-        "keys": [
-            "football_stadiums_data",
-            "country_data",
-            "continent_data"
+            'football_stadiums',
+            'country',
+            'continent'
         ]
     }
 }

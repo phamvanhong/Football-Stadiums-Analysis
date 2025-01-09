@@ -21,7 +21,7 @@ def extract_wikipedia_data(**kwargs):
         tables = etl.extract_()  # Trích xuất tất cả các bảng từ URL
     
         json_target_table = tables[target_table_index].to_json(orient='records')
-        kwargs['ti'].xcom_push(key=f'{file_name}_data', value=json_target_table)
+        kwargs['ti'].xcom_push(key=f'{file_name}', value=json_target_table)
     return "Data extracted and pushed to XCom"
 
 

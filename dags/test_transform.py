@@ -12,10 +12,10 @@ default_args = {
     'owner': 'Hong Pham Van',
     'start_date': datetime(2024, 12, 22),
     "op_kwargs": {
-        "keys": [
-            "football_stadiums_data",
-            "country_data",
-            "continent_data"
+        "file_names": [
+            "football_stadiums",
+            "country",
+            "continent"
         ],
         "cols_drop": [
             ["Images"],
