@@ -2,6 +2,7 @@ DROP TABLE IF EXISTS fact_footballstadiums;
 DROP TABLE IF EXISTS dim_stadiums;
 DROP TABLE IF EXISTS dim_country;
 DROP TABLE IF EXISTS dim_continent;
+DROP TABLE IF EXISTS temp_stadiums;
 
 
 CREATE TABLE dim_continent (
@@ -38,6 +39,6 @@ CREATE TABLE temp_stadiums (
     country VARCHAR(255),
     city VARCHAR(255),
     home_teams TEXT,
-    country_id VARCHAR(5),
-    continent_id VARCHAR(5)
+    country_id VARCHAR(255),
+    continent_id VARCHAR(255)
 );
