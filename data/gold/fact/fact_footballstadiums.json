@@ -1,0 +1,379 @@
+{"stadium_id":1,"home_teams":"Korea DPR national football team, Korea DPR women's national football team, April 25","country_id":"KP","continent_id":"AS"}
+{"stadium_id":2,"home_teams":"Michigan Wolverines football","country_id":"US","continent_id":"NA"}
+{"stadium_id":3,"home_teams":"Ohio State Buckeyes football","country_id":"US","continent_id":"NA"}
+{"stadium_id":4,"home_teams":"Australia national cricket team, Victoria cricket team, Melbourne Cricket Club, Melbourne Stars, Melbourne FC, Richmond FC, Collingwood FC, Hawthorn FC","country_id":"AU","continent_id":"OC"}
+{"stadium_id":5,"home_teams":"FC Barcelona","country_id":"ES","continent_id":"EU"}
+{"stadium_id":6,"home_teams":"Club América, Cruz Azul, Mexico national football team","country_id":"MX","continent_id":"NA"}
+{"stadium_id":7,"home_teams":"South Africa national football team, Kaizer Chiefs","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":8,"home_teams":"Egypt national football team","country_id":"EG","continent_id":"AF"}
+{"stadium_id":9,"home_teams":"UCLA Bruins","country_id":"US","continent_id":"NA"}
+{"stadium_id":10,"home_teams":"Dallas Trinity FC","country_id":"US","continent_id":"NA"}
+{"stadium_id":11,"home_teams":"England national football team","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":12,"home_teams":"Qatar national football team","country_id":"QA","continent_id":"AS"}
+{"stadium_id":13,"home_teams":"Malaysia national football team","country_id":"MY","continent_id":"AS"}
+{"stadium_id":14,"home_teams":"Egypt national football team, Al Ittihad, Smouha","country_id":"EG","continent_id":"AF"}
+{"stadium_id":15,"home_teams":"Real Madrid","country_id":"ES","continent_id":"EU"}
+{"stadium_id":16,"home_teams":"Argentina national football team, River Plate","country_id":"AR","continent_id":"SA"}
+{"stadium_id":17,"home_teams":"South Sydney Rabbitohs, Canterbury-Bankstown Bulldogs, New South Wales Blues, New South Wales Waratahs, Australia men's national soccer team, Australia national rugby union team","country_id":"AU","continent_id":"OC"}
+{"stadium_id":18,"home_teams":"New York Giants, New York Jets, United States men's national soccer team","country_id":"US","continent_id":"NA"}
+{"stadium_id":19,"home_teams":"Gaelic Athletic Association, Dublin GAA","country_id":"IE","continent_id":"EU"}
+{"stadium_id":20,"home_teams":"Persija Jakarta, Indonesia national football team","country_id":"ID","continent_id":"AS"}
+{"stadium_id":21,"home_teams":"Green Bay Packers","country_id":"US","continent_id":"NA"}
+{"stadium_id":22,"home_teams":"Borussia Dortmund","country_id":"DE","continent_id":"EU"}
+{"stadium_id":23,"home_teams":"France national football team","country_id":"FR","continent_id":"EU"}
+{"stadium_id":24,"home_teams":"Unknown","country_id":"RU","continent_id":"EU"}
+{"stadium_id":25,"home_teams":"Selangor FA","country_id":"MY","continent_id":"AS"}
+{"stadium_id":26,"home_teams":"Club Universitario de Deportes","country_id":"PE","continent_id":"SA"}
+{"stadium_id":27,"home_teams":"AC Milan and Internazionale","country_id":"IT","continent_id":"EU"}
+{"stadium_id":28,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":29,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":30,"home_teams":"Dallas Cowboys, FC Dallas","country_id":"US","continent_id":"NA"}
+{"stadium_id":31,"home_teams":"Congo DR national football team","country_id":"CG","continent_id":"AF"}
+{"stadium_id":32,"home_teams":"AS Vita Club, DC Motema Pembe","country_id":"CG","continent_id":"AF"}
+{"stadium_id":33,"home_teams":"Zimbabwe national football team","country_id":"ZW","continent_id":"AF"}
+{"stadium_id":34,"home_teams":"Kenya national football team","country_id":"KE","continent_id":"AF"}
+{"stadium_id":35,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":36,"home_teams":"Senegal national football team, ASC Jeanne d'Arc","country_id":"SN","continent_id":"AF"}
+{"stadium_id":37,"home_teams":"CR Flamengo, Fluminense FC, Botafogo FR, CR Vasco da Gama","country_id":"BR","continent_id":"SA"}
+{"stadium_id":38,"home_teams":"USC Trojans","country_id":"US","continent_id":"NA"}
+{"stadium_id":39,"home_teams":"Iran national football team, Esteghlal FC, Persepolis FC","country_id":"IR","continent_id":"AS"}
+{"stadium_id":40,"home_teams":"Indonesia national football team,","country_id":"ID","continent_id":"AS"}
+{"stadium_id":41,"home_teams":"New Orleans Saints, Sugar Bowl","country_id":"US","continent_id":"NA"}
+{"stadium_id":42,"home_teams":"Kansas City Chiefs","country_id":"US","continent_id":"NA"}
+{"stadium_id":43,"home_teams":"Denver Broncos","country_id":"US","continent_id":"NA"}
+{"stadium_id":44,"home_teams":"Unknown","country_id":"TR","continent_id":"EU"}
+{"stadium_id":45,"home_teams":"Manchester United","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":46,"home_teams":"FC Bayern Munich","country_id":"DE","continent_id":"EU"}
+{"stadium_id":47,"home_teams":"Sepahan FC","country_id":"IR","continent_id":"AS"}
+{"stadium_id":48,"home_teams":"Charlotte FC, Carolina Panthers","country_id":"US","continent_id":"NA"}
+{"stadium_id":49,"home_teams":"Wales national rugby union team","country_id":"WAL","continent_id":"EU"}
+{"stadium_id":50,"home_teams":"Hertha BSC","country_id":"DE","continent_id":"EU"}
+{"stadium_id":51,"home_teams":"Egypt national football team, Al Ahly, Zamalek","country_id":"EG","continent_id":"AF"}
+{"stadium_id":52,"home_teams":"Cleveland Browns","country_id":"US","continent_id":"NA"}
+{"stadium_id":53,"home_teams":"Brasília FC, Legião FC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":54,"home_teams":"AS Roma, Lazio","country_id":"IT","continent_id":"EU"}
+{"stadium_id":55,"home_teams":"Yokohama F. Marinos, Yokohama Eagles","country_id":"JP","continent_id":"AS"}
+{"stadium_id":56,"home_teams":"Houston Texans, Houston Dynamo FC","country_id":"US","continent_id":"NA"}
+{"stadium_id":57,"home_teams":"Shanghai Shenhua","country_id":"CN","continent_id":"AS"}
+{"stadium_id":58,"home_teams":"Baltimore Ravens","country_id":"US","continent_id":"NA"}
+{"stadium_id":59,"home_teams":"Atlanta United FC, Atlanta Falcons","country_id":"US","continent_id":"NA"}
+{"stadium_id":60,"home_teams":"Atlético de Madrid","country_id":"ES","continent_id":"EU"}
+{"stadium_id":61,"home_teams":"Ukraine national football team, FC Dynamo Kyiv","country_id":"UA","continent_id":"EU"}
+{"stadium_id":62,"home_teams":"Unknown","country_id":"US","continent_id":"NA"}
+{"stadium_id":63,"home_teams":"Unknown","country_id":"KR","continent_id":"AS"}
+{"stadium_id":64,"home_teams":"Azerbaijan national football team","country_id":"AZ","continent_id":"AS"}
+{"stadium_id":65,"home_teams":"Greece national football team","country_id":"GR","continent_id":"EU"}
+{"stadium_id":66,"home_teams":"Unknown","country_id":"DE","continent_id":"EU"}
+{"stadium_id":67,"home_teams":"Seattle Sounders FC, Seattle Seahawks","country_id":"US","continent_id":"NA"}
+{"stadium_id":68,"home_teams":"UNAM Pumas","country_id":"MX","continent_id":"NA"}
+{"stadium_id":69,"home_teams":"New England Patriots, New England Revolution","country_id":"US","continent_id":"NA"}
+{"stadium_id":70,"home_teams":"Saudi Arabia national football team, Al-Ahli Saudi FC, Al-Ittihad Saudi Club","country_id":"SA","continent_id":"AS"}
+{"stadium_id":71,"home_teams":"Philadelphia Eagles, Temple Owls football","country_id":"US","continent_id":"NA"}
+{"stadium_id":72,"home_teams":"San Francisco 49ers","country_id":"US","continent_id":"NA"}
+{"stadium_id":73,"home_teams":"Pittsburgh Steelers, Pittsburgh Panthers football","country_id":"US","continent_id":"NA"}
+{"stadium_id":74,"home_teams":"FC Zenit Saint Petersburg","country_id":"RU","continent_id":"EU"}
+{"stadium_id":75,"home_teams":"India national football team, Mohun Bagan Super Giant, East Bengal FC, Mohammedan SC","country_id":"IN","continent_id":"AS"}
+{"stadium_id":76,"home_teams":"Unknown","country_id":"JP","continent_id":"AS"}
+{"stadium_id":77,"home_teams":"Jacksonville Jaguars","country_id":"US","continent_id":"NA"}
+{"stadium_id":78,"home_teams":"Olympique de Marseille","country_id":"FR","continent_id":"EU"}
+{"stadium_id":79,"home_teams":"Hungary national football team","country_id":"HU","continent_id":"EU"}
+{"stadium_id":80,"home_teams":"Scotland national rugby union team","country_id":"SCO","continent_id":"EU"}
+{"stadium_id":81,"home_teams":"Indianapolis Colts","country_id":"US","continent_id":"NA"}
+{"stadium_id":82,"home_teams":"São Paulo FC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":83,"home_teams":"St. Louis BattleHawks","country_id":"US","continent_id":"NA"}
+{"stadium_id":84,"home_teams":"Tractor Sazi FC","country_id":"IR","continent_id":"AS"}
+{"stadium_id":85,"home_teams":"FC Seoul","country_id":"KR","continent_id":"AS"}
+{"stadium_id":86,"home_teams":"Minnesota Vikings","country_id":"US","continent_id":"NA"}
+{"stadium_id":87,"home_teams":"Daegu FC","country_id":"KR","continent_id":"AS"}
+{"stadium_id":88,"home_teams":"Beijing Guoan, China national football team","country_id":"CN","continent_id":"AS"}
+{"stadium_id":89,"home_teams":"West Ham United","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":90,"home_teams":"Tampa Bay Buccaneers, South Florida Bulls football, Tampa Bay Vipers","country_id":"US","continent_id":"NA"}
+{"stadium_id":91,"home_teams":"Miami Dolphins, Miami Hurricanes football","country_id":"US","continent_id":"NA"}
+{"stadium_id":92,"home_teams":"CF Montréal","country_id":"CA","continent_id":"NA"}
+{"stadium_id":93,"home_teams":"Iraq national football team","country_id":"IQ","continent_id":"AS"}
+{"stadium_id":94,"home_teams":"Unknown","country_id":"US","continent_id":"NA"}
+{"stadium_id":95,"home_teams":"UTSA Roadrunners football","country_id":"US","continent_id":"NA"}
+{"stadium_id":96,"home_teams":"Detroit Lions","country_id":"US","continent_id":"NA"}
+{"stadium_id":97,"home_teams":"IR Tanger","country_id":"MA","continent_id":"AF"}
+{"stadium_id":98,"home_teams":"Benfica","country_id":"PT","continent_id":"EU"}
+{"stadium_id":99,"home_teams":"Algeria national football team","country_id":"DZ","continent_id":"AF"}
+{"stadium_id":100,"home_teams":"Ceará SC, Fortaleza EC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":101,"home_teams":"Urawa Red Diamonds, Saitama Wild Knights","country_id":"JP","continent_id":"AS"}
+{"stadium_id":102,"home_teams":"Orlando Pirates FC, Emirates Johannesburg Lions","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":103,"home_teams":"Tottenham Hotspur","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":104,"home_teams":"FC Schalke 04","country_id":"DE","continent_id":"EU"}
+{"stadium_id":105,"home_teams":"Qingdao Jonoon FC","country_id":"CN","continent_id":"AS"}
+{"stadium_id":106,"home_teams":"Atlético Mineiro, Cruzeiro EC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":107,"home_teams":"Saudi Arabia national football team, Al-Hilal, Al-Nassr, Al-Shabab","country_id":"SA","continent_id":"AS"}
+{"stadium_id":108,"home_teams":"Chicago Bears","country_id":"US","continent_id":"NA"}
+{"stadium_id":109,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":110,"home_teams":"Liverpool FC","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":111,"home_teams":"Real Betis","country_id":"ES","continent_id":"EU"}
+{"stadium_id":112,"home_teams":"Nigeria national football team","country_id":"NG","continent_id":"AF"}
+{"stadium_id":113,"home_teams":"VfB Stuttgart","country_id":"DE","continent_id":"EU"}
+{"stadium_id":114,"home_teams":"Celtic FC","country_id":"SCO","continent_id":"EU"}
+{"stadium_id":115,"home_teams":"FBC Melgar","country_id":"PE","continent_id":"SA"}
+{"stadium_id":116,"home_teams":"Arsenal","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":117,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":118,"home_teams":"Uruguay national football team","country_id":"UY","continent_id":"SA"}
+{"stadium_id":119,"home_teams":"Santa Cruz FC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":120,"home_teams":"Unknown","country_id":"QA","continent_id":"AS"}
+{"stadium_id":121,"home_teams":"Tanzania national football team, Young Africans","country_id":"TZ","continent_id":"AF"}
+{"stadium_id":122,"home_teams":"Anhui Jiufang","country_id":"CN","continent_id":"AS"}
+{"stadium_id":123,"home_teams":"Kuwait national football team","country_id":"KW","continent_id":"AS"}
+{"stadium_id":124,"home_teams":"Tunisia national football team","country_id":"TN","continent_id":"AF"}
+{"stadium_id":125,"home_teams":"Unknown","country_id":"IN","continent_id":"AS"}
+{"stadium_id":126,"home_teams":"Somalia national football team","country_id":"SO","continent_id":"AF"}
+{"stadium_id":127,"home_teams":"Zambian national football team","country_id":"ZM","continent_id":"AF"}
+{"stadium_id":128,"home_teams":"Unknown","country_id":"US","continent_id":"NA"}
+{"stadium_id":129,"home_teams":"Unknown","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":130,"home_teams":"Cambodia national football team","country_id":"KH","continent_id":"AS"}
+{"stadium_id":131,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":132,"home_teams":"Perth Glory FC, Fremantle Dockers, West Coast Eagles","country_id":"AU","continent_id":"OC"}
+{"stadium_id":133,"home_teams":"Barcelona Sporting Club","country_id":"EC","continent_id":"SA"}
+{"stadium_id":134,"home_teams":"Olympique Lyonnais","country_id":"FR","continent_id":"EU"}
+{"stadium_id":135,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":136,"home_teams":"Poland national football team","country_id":"PL","continent_id":"EU"}
+{"stadium_id":137,"home_teams":"SSC Bari","country_id":"IT","continent_id":"EU"}
+{"stadium_id":138,"home_teams":"Washington Commanders","country_id":"US","continent_id":"NA"}
+{"stadium_id":139,"home_teams":"Eintracht Frankfurt","country_id":"DE","continent_id":"EU"}
+{"stadium_id":140,"home_teams":"Unknown","country_id":"ES","continent_id":"EU"}
+{"stadium_id":141,"home_teams":"NC State Wolfpack football","country_id":"US","continent_id":"NA"}
+{"stadium_id":142,"home_teams":"CA Boca Juniors","country_id":"AR","continent_id":"SA"}
+{"stadium_id":143,"home_teams":"Hamburger SV","country_id":"DE","continent_id":"EU"}
+{"stadium_id":144,"home_teams":"Talleres de Córdoba, some Belgrano de Córdoba matches.","country_id":"AR","continent_id":"SA"}
+{"stadium_id":145,"home_teams":"Shandong Taishan","country_id":"CN","continent_id":"AS"}
+{"stadium_id":146,"home_teams":"Atlas","country_id":"MX","continent_id":"NA"}
+{"stadium_id":147,"home_teams":"Edmonton Elks, Canadian men's and women's national teams","country_id":"CA","continent_id":"NA"}
+{"stadium_id":148,"home_teams":"Los Angeles Dodgers","country_id":"US","continent_id":"NA"}
+{"stadium_id":149,"home_teams":"USM Annaba","country_id":"DZ","continent_id":"AF"}
+{"stadium_id":150,"home_teams":"Unknown","country_id":"ES","continent_id":"EU"}
+{"stadium_id":151,"home_teams":"Grêmio FBPA","country_id":"BR","continent_id":"SA"}
+{"stadium_id":152,"home_teams":"Romania national football team","country_id":"RO","continent_id":"EU"}
+{"stadium_id":153,"home_teams":"Red Star Belgrade, Serbia national football team","country_id":"RS","continent_id":"EU"}
+{"stadium_id":154,"home_teams":"Poland national football team, Ruch Chorzów","country_id":"PL","continent_id":"EU"}
+{"stadium_id":155,"home_teams":"Manchester City","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":156,"home_teams":"Valencia CF","country_id":"ES","continent_id":"EU"}
+{"stadium_id":157,"home_teams":"Singapore national football team","country_id":"SG","continent_id":"AS"}
+{"stadium_id":158,"home_teams":"Chinese Taipei national football team","country_id":"TW","continent_id":"AS"}
+{"stadium_id":159,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":160,"home_teams":"Cape Town City FC, DHL Western Cape Stormers","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":161,"home_teams":"Unknown","country_id":"BG","continent_id":"EU"}
+{"stadium_id":162,"home_teams":"Georgia Tech Yellow Jackets football","country_id":"US","continent_id":"NA"}
+{"stadium_id":163,"home_teams":"AFC Ajax","country_id":"NL","continent_id":"EU"}
+{"stadium_id":164,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":165,"home_teams":"SSC Napoli","country_id":"IT","continent_id":"EU"}
+{"stadium_id":166,"home_teams":"Tianjin Teda","country_id":"CN","continent_id":"AS"}
+{"stadium_id":167,"home_teams":"Fortuna Düsseldorf","country_id":"DE","continent_id":"EU"}
+{"stadium_id":168,"home_teams":"Georgia national football team, FC Dinamo Tbilisi","country_id":"GE","continent_id":"AS"}
+{"stadium_id":169,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":170,"home_teams":"Vancouver Whitecaps FC, BC Lions","country_id":"CA","continent_id":"NA"}
+{"stadium_id":171,"home_teams":"New York Yankees, New York City FC","country_id":"US","continent_id":"NA"}
+{"stadium_id":172,"home_teams":"FC Ararat Yerevan, Ulisses FC","country_id":"AM","continent_id":"AS"}
+{"stadium_id":173,"home_teams":"Borussia Mönchengladbach","country_id":"DE","continent_id":"EU"}
+{"stadium_id":174,"home_teams":"AmaZulu FC, Cell C Durban Sharks","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":175,"home_teams":"Busan IPark","country_id":"KR","continent_id":"AS"}
+{"stadium_id":176,"home_teams":"Paysandu SC, Clube do Remo, Tuna Luso Brasileira, SC Belem","country_id":"BR","continent_id":"SA"}
+{"stadium_id":177,"home_teams":"Unknown","country_id":"AR","continent_id":"SA"}
+{"stadium_id":178,"home_teams":"Adelaide Crows, Port Adelaide Power","country_id":"AU","continent_id":"OC"}
+{"stadium_id":179,"home_teams":"Western Bulldogs, Essendon, St. Kilda, Carlton, North Melbourne","country_id":"AU","continent_id":"OC"}
+{"stadium_id":180,"home_teams":"Uberlânia EC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":181,"home_teams":"Athletic Bilbao","country_id":"ES","continent_id":"EU"}
+{"stadium_id":182,"home_teams":"Al-Ittihad","country_id":"SY","continent_id":"AS"}
+{"stadium_id":183,"home_teams":"Peru national football team","country_id":"PE","continent_id":"SA"}
+{"stadium_id":184,"home_teams":"Hangzhou FC","country_id":"CN","continent_id":"AS"}
+{"stadium_id":185,"home_teams":"Galatasaray","country_id":"TR","continent_id":"EU"}
+{"stadium_id":186,"home_teams":"Brisbane Broncos, Queensland Maroons, Brisbane Roar FC, Queensland Reds","country_id":"AU","continent_id":"OC"}
+{"stadium_id":187,"home_teams":"Newcastle United","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":188,"home_teams":"Lamontville Golden Arrows, Cell C Durban Sharks","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":189,"home_teams":"Unknown","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":190,"home_teams":"Scotland national football team, Queen's Park","country_id":"SCO","continent_id":"EU"}
+{"stadium_id":191,"home_teams":"Monagas Sport Club","country_id":"VE","continent_id":"SA"}
+{"stadium_id":192,"home_teams":"SuperSport United and Vodacom Pretoria Bulls","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":193,"home_teams":"Leinster Rugby, Republic of Ireland national football team, Ireland national rugby union team","country_id":"IE","continent_id":"EU"}
+{"stadium_id":194,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":195,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":196,"home_teams":"Thailand national football team","country_id":"TH","continent_id":"AS"}
+{"stadium_id":197,"home_teams":"Unknown","country_id":"UA","continent_id":"EU"}
+{"stadium_id":198,"home_teams":"Racing Club de Avellaneda","country_id":"AR","continent_id":"SA"}
+{"stadium_id":199,"home_teams":"Altay SK, Göztepe AŞ","country_id":"TR","continent_id":"AS"}
+{"stadium_id":200,"home_teams":"Feyenoord","country_id":"NL","continent_id":"EU"}
+{"stadium_id":201,"home_teams":"CF Monterrey","country_id":"MX","continent_id":"NA"}
+{"stadium_id":202,"home_teams":"Foolad FC","country_id":"IR","continent_id":"AS"}
+{"stadium_id":203,"home_teams":"SC Internacional","country_id":"BR","continent_id":"SA"}
+{"stadium_id":204,"home_teams":"Rangers FC","country_id":"SCO","continent_id":"EU"}
+{"stadium_id":205,"home_teams":"Júbilo Iwata, Shimizu S-Pulse, Shizuoka Blue Revs","country_id":"JP","continent_id":"AS"}
+{"stadium_id":206,"home_teams":"Austria national football team","country_id":"AT","continent_id":"EU"}
+{"stadium_id":207,"home_teams":"Minnesota Golden Gophers football","country_id":"US","continent_id":"NA"}
+{"stadium_id":208,"home_teams":"Puebla FC","country_id":"MX","continent_id":"NA"}
+{"stadium_id":209,"home_teams":"Sweden men's national football team, AIK Fotboll","country_id":"SE","continent_id":"EU"}
+{"stadium_id":210,"home_teams":"Fenerbahçe","country_id":"TR","continent_id":"AS"}
+{"stadium_id":211,"home_teams":"Unknown","country_id":"US","continent_id":"NA"}
+{"stadium_id":212,"home_teams":"Lille OSC","country_id":"FR","continent_id":"EU"}
+{"stadium_id":213,"home_teams":"Belgium national football team","country_id":"BE","continent_id":"EU"}
+{"stadium_id":214,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":215,"home_teams":"FC Tokyo, Tokyo Verdy, Tokyo Sungoliath, Toshiba Brave Lupus Tokyo","country_id":"JP","continent_id":"AS"}
+{"stadium_id":216,"home_teams":"Sporting CP","country_id":"PT","continent_id":"EU"}
+{"stadium_id":217,"home_teams":"FC Porto","country_id":"PT","continent_id":"EU"}
+{"stadium_id":218,"home_teams":"EC Bahia","country_id":"BR","continent_id":"SA"}
+{"stadium_id":219,"home_teams":"Étoile du Sahel","country_id":"TN","continent_id":"AF"}
+{"stadium_id":220,"home_teams":"1. FC Köln","country_id":"DE","continent_id":"EU"}
+{"stadium_id":221,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":222,"home_teams":"Unknown","country_id":"IN","continent_id":"AS"}
+{"stadium_id":223,"home_teams":"India national football team, Gokulam Kerala FC","country_id":"IN","continent_id":"AS"}
+{"stadium_id":224,"home_teams":"Unknown","country_id":"IN","continent_id":"AS"}
+{"stadium_id":225,"home_teams":"Auckland Blues, New Zealand Warriors","country_id":"NZ","continent_id":"OC"}
+{"stadium_id":226,"home_teams":"Angola national football team, Primeiro de Agosto, Petro Luanda","country_id":"AO","continent_id":"AF"}
+{"stadium_id":227,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":228,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":229,"home_teams":"1. FC Nürnberg","country_id":"DE","continent_id":"EU"}
+{"stadium_id":230,"home_teams":"Libya, Al-Ahly SC, Al-Ittihad Tripoli, Al-Madina SC","country_id":"LY","continent_id":"AF"}
+{"stadium_id":231,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":232,"home_teams":"Pyongyang City Sports Club","country_id":"KP","continent_id":"AS"}
+{"stadium_id":233,"home_teams":"Sanfrecce Hiroshima","country_id":"JP","continent_id":"AS"}
+{"stadium_id":234,"home_teams":"Fajr Sepasi Shiraz FC","country_id":"IR","continent_id":"AS"}
+{"stadium_id":235,"home_teams":"Stade Malien","country_id":"ML","continent_id":"AF"}
+{"stadium_id":236,"home_teams":"Senegal national football team","country_id":"SN","continent_id":"AF"}
+{"stadium_id":237,"home_teams":"Terengganu FA","country_id":"MY","continent_id":"AS"}
+{"stadium_id":238,"home_teams":"C.D. Guadalajara","country_id":"MX","continent_id":"NA"}
+{"stadium_id":239,"home_teams":"Zesco United","country_id":"ZM","continent_id":"AF"}
+{"stadium_id":240,"home_teams":"1. FC Kaiserslautern","country_id":"DE","continent_id":"EU"}
+{"stadium_id":241,"home_teams":"CA Vélez Sársfield","country_id":"AR","continent_id":"SA"}
+{"stadium_id":242,"home_teams":"Lebanon national football team, Al Ahed FC, Al Ansar FC, Nejmeh SC","country_id":"LB","continent_id":"AS"}
+{"stadium_id":243,"home_teams":"Vegalta Sendai","country_id":"JP","continent_id":"AS"}
+{"stadium_id":244,"home_teams":"Unknown","country_id":"KR","continent_id":"AS"}
+{"stadium_id":245,"home_teams":"Hannover 96","country_id":"DE","continent_id":"EU"}
+{"stadium_id":246,"home_teams":"Paris Saint-Germain","country_id":"FR","continent_id":"EU"}
+{"stadium_id":247,"home_teams":"Sunderland AFC","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":248,"home_teams":"Chile national football team, CF Universidad de Chile","country_id":"CL","continent_id":"SA"}
+{"stadium_id":249,"home_teams":"Chippa United FC","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":250,"home_teams":"CA Huracán","country_id":"AR","continent_id":"SA"}
+{"stadium_id":251,"home_teams":"Pakistan national football team","country_id":"PK","continent_id":"AS"}
+{"stadium_id":252,"home_teams":"Club Atlético Independiente","country_id":"AR","continent_id":"SA"}
+{"stadium_id":253,"home_teams":"Bloemfontein Celtic, Toyota Cheetahs","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":254,"home_teams":"Cerezo Osaka, NTT DoCoMo Red Hurricanes Osaka","country_id":"JP","continent_id":"AS"}
+{"stadium_id":255,"home_teams":"Corinthians","country_id":"BR","continent_id":"SA"}
+{"stadium_id":256,"home_teams":"Toronto FC, Toronto Argonauts","country_id":"CA","continent_id":"NA"}
+{"stadium_id":257,"home_teams":"Colo-Colo","country_id":"CL","continent_id":"SA"}
+{"stadium_id":258,"home_teams":"ACF Fiorentina","country_id":"IT","continent_id":"EU"}
+{"stadium_id":259,"home_teams":"CA Lanús","country_id":"AR","continent_id":"SA"}
+{"stadium_id":260,"home_teams":"Colombia national football team, Atlético Junior","country_id":"CO","continent_id":"SA"}
+{"stadium_id":261,"home_teams":"Botafogo FR","country_id":"BR","continent_id":"SA"}
+{"stadium_id":262,"home_teams":"Náutico","country_id":"BR","continent_id":"SA"}
+{"stadium_id":263,"home_teams":"C Atlético Mineiro","country_id":"BR","continent_id":"SA"}
+{"stadium_id":264,"home_teams":"Grêmio Prudente","country_id":"BR","continent_id":"SA"}
+{"stadium_id":265,"home_teams":"Atlético Nacional, Independiente Medellín","country_id":"CO","continent_id":"SA"}
+{"stadium_id":266,"home_teams":"Sevilla FC","country_id":"ES","continent_id":"EU"}
+{"stadium_id":267,"home_teams":"Hassania Agadir","country_id":"MA","continent_id":"AF"}
+{"stadium_id":268,"home_teams":"Spartak Moscow","country_id":"RU","continent_id":"EU"}
+{"stadium_id":269,"home_teams":"Kawkab Marrakech","country_id":"MA","continent_id":"AF"}
+{"stadium_id":270,"home_teams":"Uganda national football team","country_id":"UG","continent_id":"AF"}
+{"stadium_id":271,"home_teams":"Śląsk Wrocław","country_id":"PL","continent_id":"EU"}
+{"stadium_id":272,"home_teams":"Rubin Kazan","country_id":"RU","continent_id":"EU"}
+{"stadium_id":273,"home_teams":"CS Cienciano, Deportivo Garcilaso, Cusco FC","country_id":"PE","continent_id":"SA"}
+{"stadium_id":274,"home_teams":"Mozambique national football team","country_id":"MZ","continent_id":"AF"}
+{"stadium_id":275,"home_teams":"Persebaya Surabaya","country_id":"ID","continent_id":"AS"}
+{"stadium_id":276,"home_teams":"Persiraja, Aceh United","country_id":"ID","continent_id":"AS"}
+{"stadium_id":277,"home_teams":"Club Cerro Porteño","country_id":"PY","continent_id":"SA"}
+{"stadium_id":278,"home_teams":"Wydad, Raja","country_id":"MA","continent_id":"AF"}
+{"stadium_id":279,"home_teams":"Unknown","country_id":"SY","continent_id":"AS"}
+{"stadium_id":280,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":281,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":282,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":283,"home_teams":"ATM FA, Negeri Sembilan","country_id":"MY","continent_id":"AS"}
+{"stadium_id":284,"home_teams":"Wydad de Fès, Maghreb de Fès","country_id":"MA","continent_id":"AF"}
+{"stadium_id":285,"home_teams":"Nigeria national football team","country_id":"NG","continent_id":"AF"}
+{"stadium_id":286,"home_teams":"Unknown","country_id":"EG","continent_id":"AF"}
+{"stadium_id":287,"home_teams":"Nagoya Grampus, Toyota Verblitz","country_id":"JP","continent_id":"AS"}
+{"stadium_id":288,"home_teams":"Unknown","country_id":"AE","continent_id":"AS"}
+{"stadium_id":289,"home_teams":"RB Leipzig","country_id":"DE","continent_id":"EU"}
+{"stadium_id":290,"home_teams":"River AC, EC Flamengo, Piauí EC, SE Tiradentes, Auto EC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":291,"home_teams":"EC Comercial, Operário FC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":292,"home_teams":"Ulsan HD FC","country_id":"KR","continent_id":"AS"}
+{"stadium_id":293,"home_teams":"Cuiabá, Mixto EC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":294,"home_teams":"Nacional FC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":295,"home_teams":"Suwon Samsung Bluewings","country_id":"KR","continent_id":"AS"}
+{"stadium_id":296,"home_teams":"PSPS Pekanbaru","country_id":"ID","continent_id":"AS"}
+{"stadium_id":297,"home_teams":"SE Palmeiras","country_id":"BR","continent_id":"SA"}
+{"stadium_id":298,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":299,"home_teams":"Lechia Gdańsk","country_id":"PL","continent_id":"EU"}
+{"stadium_id":300,"home_teams":"CA San Lorenzo de Almagro","country_id":"AR","continent_id":"SA"}
+{"stadium_id":301,"home_teams":"Lech Poznań, Warta Poznań","country_id":"PL","continent_id":"EU"}
+{"stadium_id":302,"home_teams":"Bulgaria national football team","country_id":"BG","continent_id":"EU"}
+{"stadium_id":303,"home_teams":"Deportivo Universidad San Marcos","country_id":"PE","continent_id":"SA"}
+{"stadium_id":304,"home_teams":"Sweden women's national football team","country_id":"SE","continent_id":"EU"}
+{"stadium_id":305,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":306,"home_teams":"Cúcuta Deportivo","country_id":"CO","continent_id":"SA"}
+{"stadium_id":307,"home_teams":"Aston Villa","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":308,"home_teams":"Perak FA","country_id":"MY","continent_id":"AS"}
+{"stadium_id":309,"home_teams":"Jeonbuk Hyundai Motors FC","country_id":"KR","continent_id":"AS"}
+{"stadium_id":310,"home_teams":"Athletico Paranaense","country_id":"BR","continent_id":"SA"}
+{"stadium_id":311,"home_teams":"SV Werder Bremen","country_id":"DE","continent_id":"EU"}
+{"stadium_id":312,"home_teams":"Albirex Niigata","country_id":"JP","continent_id":"AS"}
+{"stadium_id":313,"home_teams":"Estudiantes de Mérida","country_id":"VE","continent_id":"SA"}
+{"stadium_id":314,"home_teams":"Daejeon Citizen","country_id":"KR","continent_id":"AS"}
+{"stadium_id":315,"home_teams":"FC Girondins de Bordeaux","country_id":"FR","continent_id":"EU"}
+{"stadium_id":316,"home_teams":"Finland national football team","country_id":"FI","continent_id":"EU"}
+{"stadium_id":317,"home_teams":"Goiás Esporte Clube, Vila Nova, Atlético Goianiense","country_id":"BR","continent_id":"SA"}
+{"stadium_id":318,"home_teams":"Deportivo Cali","country_id":"CO","continent_id":"SA"}
+{"stadium_id":319,"home_teams":"Club Sport Patria, Club Deportivo Everest, Panamá Sporting Club, Rocafuerte Fútbol Club","country_id":"EC","continent_id":"SA"}
+{"stadium_id":320,"home_teams":"Mozambique national football team","country_id":"MZ","continent_id":"AF"}
+{"stadium_id":321,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":322,"home_teams":"Unknown","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":323,"home_teams":"Tigres de la UANL","country_id":"MX","continent_id":"NA"}
+{"stadium_id":324,"home_teams":"Club Atlético Colón","country_id":"AR","continent_id":"SA"}
+{"stadium_id":325,"home_teams":"Newell's Old Boys","country_id":"AR","continent_id":"SA"}
+{"stadium_id":326,"home_teams":"AS Saint-Étienne","country_id":"FR","continent_id":"EU"}
+{"stadium_id":327,"home_teams":"Beşiktaş J.K.","country_id":"TR","continent_id":"EU"}
+{"stadium_id":328,"home_teams":"Polokwane City FC","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":329,"home_teams":"Rosario Central","country_id":"AR","continent_id":"SA"}
+{"stadium_id":330,"home_teams":"Atlético Club Mineros de Guayana, AC Minervén FC","country_id":"VE","continent_id":"SA"}
+{"stadium_id":331,"home_teams":"LDU","country_id":"EC","continent_id":"SA"}
+{"stadium_id":332,"home_teams":"Juventus FC","country_id":"IT","continent_id":"EU"}
+{"stadium_id":333,"home_teams":"Hokkaido Consadole Sapporo","country_id":"JP","continent_id":"AS"}
+{"stadium_id":334,"home_teams":"Chelsea","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":335,"home_teams":"Unknown","country_id":"KR","continent_id":"AS"}
+{"stadium_id":336,"home_teams":"La Paz FC, Club Bolívar, The Strongest","country_id":"BO","continent_id":"SA"}
+{"stadium_id":337,"home_teams":"Flames, Big Bullets FC","country_id":"MW","continent_id":"AF"}
+{"stadium_id":338,"home_teams":"Unknown","country_id":"ZA","continent_id":"AF"}
+{"stadium_id":339,"home_teams":"Deportivo JBL del Zulia, Deportivo Rayo Zuliano","country_id":"VE","continent_id":"SA"}
+{"stadium_id":340,"home_teams":"Algeria national football team","country_id":"DZ","continent_id":"AF"}
+{"stadium_id":341,"home_teams":"Kashima Antlers","country_id":"JP","continent_id":"AS"}
+{"stadium_id":342,"home_teams":"Asante Kotoko, King Faisal Babes","country_id":"GH","continent_id":"AF"}
+{"stadium_id":343,"home_teams":"Coritiba Foot Ball Club","country_id":"BR","continent_id":"SA"}
+{"stadium_id":344,"home_teams":"RCD Espanyol","country_id":"ES","continent_id":"EU"}
+{"stadium_id":345,"home_teams":"Unión Lara","country_id":"VE","continent_id":"SA"}
+{"stadium_id":346,"home_teams":"Godoy Cruz Antonio Tomba","country_id":"AR","continent_id":"SA"}
+{"stadium_id":347,"home_teams":"Persipura Jayapura","country_id":"ID","continent_id":"AS"}
+{"stadium_id":348,"home_teams":"Gwangju FC","country_id":"KR","continent_id":"AS"}
+{"stadium_id":349,"home_teams":"Vietnam national football team","country_id":"VN","continent_id":"AS"}
+{"stadium_id":350,"home_teams":"Everton FC","country_id":"ENG","continent_id":"EU"}
+{"stadium_id":351,"home_teams":"Sampaio Corrêa FC, Moto Club SL, Maranhão AC","country_id":"BR","continent_id":"SA"}
+{"stadium_id":352,"home_teams":"Algeria national football team, MC Oran","country_id":"DZ","continent_id":"AF"}
+{"stadium_id":353,"home_teams":"Club Atlético Peñarol","country_id":"UY","continent_id":"SA"}
+{"stadium_id":354,"home_teams":"FC Metalist Kharkiv, FC Shakhtar Donetsk","country_id":"UA","continent_id":"EU"}
+{"stadium_id":355,"home_teams":"Unknown","country_id":"QA","continent_id":"AS"}
+{"stadium_id":356,"home_teams":"Unknown","country_id":"QA","continent_id":"AS"}
+{"stadium_id":357,"home_teams":"MC Oran","country_id":"DZ","continent_id":"AF"}
+{"stadium_id":358,"home_teams":"Persiba Balikpapan","country_id":"ID","continent_id":"AS"}
+{"stadium_id":359,"home_teams":"Gresik United","country_id":"ID","continent_id":"AS"}
+{"stadium_id":360,"home_teams":"Unknown","country_id":"RU","continent_id":"EU"}
+{"stadium_id":361,"home_teams":"Unknown","country_id":"US","continent_id":"NA"}
+{"stadium_id":362,"home_teams":"Kerala Blasters, India national football team","country_id":"IN","continent_id":"AS"}
+{"stadium_id":363,"home_teams":"Melaka United","country_id":"MY","continent_id":"AS"}
+{"stadium_id":364,"home_teams":"South China AA","country_id":"HK","continent_id":"AS"}
+{"stadium_id":365,"home_teams":"Penang FA","country_id":"MY","continent_id":"AS"}
+{"stadium_id":366,"home_teams":"Accra Hearts of Oak SC, Great Olympics","country_id":"GH","continent_id":"AF"}
+{"stadium_id":367,"home_teams":"Sarawak FA","country_id":"MY","continent_id":"AS"}
+{"stadium_id":368,"home_teams":"Yangon United FC","country_id":"MM","continent_id":"AS"}
+{"stadium_id":369,"home_teams":"Ōita Trinita","country_id":"JP","continent_id":"AS"}
+{"stadium_id":370,"home_teams":"Pahang FA","country_id":"MY","continent_id":"AS"}
+{"stadium_id":371,"home_teams":"Qatar national football team","country_id":"QA","continent_id":"AS"}
+{"stadium_id":372,"home_teams":"Gabon national football team","country_id":"GA","continent_id":"AF"}
+{"stadium_id":373,"home_teams":"Pakistan national football team","country_id":"PK","continent_id":"AS"}
+{"stadium_id":374,"home_teams":"Jamshedpur FC, Tata Football Academy","country_id":"IN","continent_id":"AS"}
+{"stadium_id":375,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":376,"home_teams":"China national football team","country_id":"CN","continent_id":"AS"}
+{"stadium_id":377,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":378,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}
+{"stadium_id":379,"home_teams":"Unknown","country_id":"CN","continent_id":"AS"}

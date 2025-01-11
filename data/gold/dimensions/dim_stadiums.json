@@ -1,0 +1,379 @@
+{"stadium_id":1,"stadium":"Rungrado 1st of May Stadium ","capacity":"114000","city":"Pyongyang"}
+{"stadium_id":2,"stadium":"Michigan Stadium","capacity":"107601","city":"Ann Arbor, Michigan"}
+{"stadium_id":3,"stadium":"Ohio Stadium","capacity":"102780","city":"Columbus, Ohio"}
+{"stadium_id":4,"stadium":"Melbourne Cricket Ground ","capacity":"100024","city":"Melbourne, Victoria"}
+{"stadium_id":5,"stadium":"Camp Nou ","capacity":"99354","city":"Barcelona, Catalonia"}
+{"stadium_id":6,"stadium":"Estadio Azteca ","capacity":"95500","city":"Mexico City"}
+{"stadium_id":7,"stadium":"FNB Stadium ","capacity":"94736","city":"Johannesburg, Gauteng"}
+{"stadium_id":8,"stadium":"New Administrative Capital Stadium ","capacity":"93940","city":"New Administrative Capital"}
+{"stadium_id":9,"stadium":"Rose Bowl Stadium","capacity":"92800","city":"Pasadena, California"}
+{"stadium_id":10,"stadium":"Cotton Bowl Stadium","capacity":"92100","city":"Dallas, Texas"}
+{"stadium_id":11,"stadium":"Wembley Stadium ","capacity":"90000","city":"London, England"}
+{"stadium_id":12,"stadium":"Lusail Stadium ","capacity":"88966","city":"Lusail"}
+{"stadium_id":13,"stadium":"Bukit Jalil National Stadium ","capacity":"87411","city":"Kuala Lumpur"}
+{"stadium_id":14,"stadium":"Borg el-Arab Stadium","capacity":"86000","city":"Alexandria"}
+{"stadium_id":15,"stadium":"Estadio Santiago Bernabéu","capacity":"85000","city":"Madrid"}
+{"stadium_id":16,"stadium":"Estadio Mâs Monumental ","capacity":"84567","city":"Buenos Aires"}
+{"stadium_id":17,"stadium":"Stadium Australia","capacity":"83500","city":"Sydney, New South Wales"}
+{"stadium_id":18,"stadium":"MetLife Stadium","capacity":"82500","city":"East Rutherford, New Jersey"}
+{"stadium_id":19,"stadium":"Croke Park ","capacity":"82300","city":"Dublin"}
+{"stadium_id":20,"stadium":"Jakarta International Stadium ","capacity":"82000","city":"Jakarta"}
+{"stadium_id":21,"stadium":"Lambeau Field","capacity":"81441","city":"Green Bay, Wisconsin"}
+{"stadium_id":22,"stadium":"Signal Iduna Park ","capacity":"81365","city":"Dortmund"}
+{"stadium_id":23,"stadium":"Stade de France ","capacity":"81338","city":"Saint-Denis"}
+{"stadium_id":24,"stadium":"Grand Sports Arena of the Luzhniki Olympic Complex ","capacity":"81000","city":"Moscow"}
+{"stadium_id":25,"stadium":"Shah Alam Stadium","capacity":"80372","city":"Shah Alam, Selangor"}
+{"stadium_id":26,"stadium":"Estadio Monumental ","capacity":"80093","city":"Lima"}
+{"stadium_id":27,"stadium":"Stadio Giuseppe Meazza ","capacity":"80018","city":"Milan, Lombardy"}
+{"stadium_id":28,"stadium":"Guangdong Olympic Stadium ","capacity":"80012","city":"Guangzhou, Guangdong"}
+{"stadium_id":29,"stadium":"Hangzhou Olympic Sports Expo Centre Stadium","capacity":"80000","city":"Hangzhou, Zhejiang"}
+{"stadium_id":30,"stadium":"AT&T Stadium ","capacity":"80000","city":"Arlington, Texas"}
+{"stadium_id":31,"stadium":"Stade des Martyrs ","capacity":"80000","city":"Kinshasa"}
+{"stadium_id":32,"stadium":"Stade Tata Raphaël ","capacity":"80000","city":"Kinshasa"}
+{"stadium_id":33,"stadium":"National Sports Stadium ","capacity":"80000","city":"Harare"}
+{"stadium_id":34,"stadium":"Moi International Sports Centre ","capacity":"80000","city":"Nairobi"}
+{"stadium_id":35,"stadium":"Beijing National Stadium","capacity":"80000","city":"Beijing"}
+{"stadium_id":36,"stadium":"Stade Léopold Sédar Senghor ","capacity":"80000","city":"Dakar"}
+{"stadium_id":37,"stadium":"Maracanã ","capacity":"78838","city":"Rio de Janeiro, Rio de Janeiro"}
+{"stadium_id":38,"stadium":"Los Angeles Memorial Coliseum","capacity":"78467","city":"Los Angeles, California"}
+{"stadium_id":39,"stadium":"Azadi Stadium ","capacity":"78116","city":"Tehran"}
+{"stadium_id":40,"stadium":"Stadion Utama Gelora Bung Karno","capacity":"77193","city":"Jakarta"}
+{"stadium_id":41,"stadium":"Caesar's Superdome","capacity":"76468","city":"New Orleans, Louisiana"}
+{"stadium_id":42,"stadium":"Arrowhead Stadium","capacity":"76412","city":"Kansas City, Missouri"}
+{"stadium_id":43,"stadium":"Empower Field","capacity":"76125","city":"Denver"}
+{"stadium_id":44,"stadium":"Atatürk Olimpiyat Stadyumu ","capacity":"76092","city":"Istanbul"}
+{"stadium_id":45,"stadium":"Old Trafford","capacity":"76000","city":"Manchester, North West England"}
+{"stadium_id":46,"stadium":"Allianz Arena","capacity":"75024","city":"Munich"}
+{"stadium_id":47,"stadium":"Naghsh-e-Jahan Stadium","capacity":"75000","city":"Isfahan"}
+{"stadium_id":48,"stadium":"Bank of America Stadium","capacity":"74867","city":"Charlotte, North Carolina"}
+{"stadium_id":49,"stadium":"Principality Stadium ","capacity":"74500","city":"Cardiff"}
+{"stadium_id":50,"stadium":"Olympiastadion","capacity":"74475","city":"Berlin"}
+{"stadium_id":51,"stadium":"Cairo International Stadium","capacity":"74100","city":"Cairo"}
+{"stadium_id":52,"stadium":"FirstEnergy Stadium","capacity":"73200","city":"Cleveland"}
+{"stadium_id":53,"stadium":"Estádio Nacional Mané Garrincha","capacity":"72788","city":"Brasília, Distrito Federal"}
+{"stadium_id":54,"stadium":"Stadio Olimpico","capacity":"72698","city":"Rome, Lazio"}
+{"stadium_id":55,"stadium":"Nissan Stadium ","capacity":"72327","city":"Yokohama, Kanagawa"}
+{"stadium_id":56,"stadium":"NRG Stadium","capacity":"72220","city":"Houston, Texas"}
+{"stadium_id":57,"stadium":"Shanghai Stadium","capacity":"72000","city":"Shanghai"}
+{"stadium_id":58,"stadium":"M&T Bank Stadium","capacity":"71008","city":"Baltimore"}
+{"stadium_id":59,"stadium":"Mercedes-Benz Stadium","capacity":"71000","city":"Atlanta, Georgia"}
+{"stadium_id":60,"stadium":"Riyadh Air Metropolitano","capacity":"70692","city":"Madrid"}
+{"stadium_id":61,"stadium":"Olympic National Sports Complex Stadium ","capacity":"70000","city":"Kyiv"}
+{"stadium_id":62,"stadium":"SoFi Stadium","capacity":"70000","city":"Inglewood, California"}
+{"stadium_id":63,"stadium":"Seoul Olympic Stadium ","capacity":"69950","city":"Seoul"}
+{"stadium_id":64,"stadium":"Bakı Olimpiya stadionu ","capacity":"69870","city":"Baku"}
+{"stadium_id":65,"stadium":"Olympic Stadium ","capacity":"69618","city":"Marousi, Attica"}
+{"stadium_id":66,"stadium":"Olympiastadion München","capacity":"69250","city":"Munich"}
+{"stadium_id":67,"stadium":"Lumen Field","capacity":"69000","city":"Seattle, Washington"}
+{"stadium_id":68,"stadium":"Estadio Olímpico Universitario","capacity":"68954","city":"Mexico City"}
+{"stadium_id":69,"stadium":"Gillette Stadium","capacity":"68756","city":"Foxborough, Massachusetts"}
+{"stadium_id":70,"stadium":"King Abdullah Sports City Stadium ","capacity":"68560","city":"Jeddah"}
+{"stadium_id":71,"stadium":"Lincoln Financial Field","capacity":"68532","city":"Philadelphia"}
+{"stadium_id":72,"stadium":"Levi's Stadium","capacity":"68500","city":"Santa Clara, California"}
+{"stadium_id":73,"stadium":"Acrisure Stadium","capacity":"68400","city":"Pittsburgh"}
+{"stadium_id":74,"stadium":"Gazprom Arena","capacity":"68134","city":"Saint Petersburg"}
+{"stadium_id":75,"stadium":"Salt Lake Stadium ","capacity":"68000","city":"Kolkata"}
+{"stadium_id":76,"stadium":"National Stadium","capacity":"68000","city":"Tokyo"}
+{"stadium_id":77,"stadium":"TIAA Bank Field","capacity":"67814","city":"Jacksonville, Florida"}
+{"stadium_id":78,"stadium":"Orange Vélodrome","capacity":"67394","city":"Marseille"}
+{"stadium_id":79,"stadium":"Puskás Aréna ","capacity":"67215","city":"Budapest"}
+{"stadium_id":80,"stadium":"Scottish Gas Murrayfield Stadium","capacity":"67144","city":"Edinburgh"}
+{"stadium_id":81,"stadium":"Lucas Oil Stadium","capacity":"67000","city":"Indianapolis, Indiana"}
+{"stadium_id":82,"stadium":"MorumBIS","capacity":"66975","city":"São Paulo, São Paulo"}
+{"stadium_id":83,"stadium":"The Dome","capacity":"66965","city":"St. Louis"}
+{"stadium_id":84,"stadium":"Yadegar-e-Emam Stadium","capacity":"66833","city":"Tabriz"}
+{"stadium_id":85,"stadium":"Seoul World Cup Stadium","capacity":"66704","city":"Seoul"}
+{"stadium_id":86,"stadium":"US Bank Stadium","capacity":"66655","city":"Minneapolis"}
+{"stadium_id":87,"stadium":"Daegu Stadium","capacity":"66422","city":"Daegu"}
+{"stadium_id":88,"stadium":"Workers' Stadium","capacity":"66161","city":"Beijing"}
+{"stadium_id":89,"stadium":"London Stadium","capacity":"66000","city":"London"}
+{"stadium_id":90,"stadium":"Raymond James Stadium","capacity":"65847","city":"Tampa, Florida"}
+{"stadium_id":91,"stadium":"Hard Rock Stadium","capacity":"65326","city":"Miami Gardens, Florida"}
+{"stadium_id":92,"stadium":"Olympic Stadium ","capacity":"65255","city":"Montreal, Quebec"}
+{"stadium_id":93,"stadium":"Basra International Stadium ","capacity":"65227","city":"Basra"}
+{"stadium_id":94,"stadium":"Camping World Stadium","capacity":"65000","city":"Orlando, Florida"}
+{"stadium_id":95,"stadium":"Alamodome","capacity":"65000","city":"San Antonio"}
+{"stadium_id":96,"stadium":"Ford Field","capacity":"65000","city":"Detroit"}
+{"stadium_id":97,"stadium":"Stade Ibn Battuta","capacity":"65000","city":"Tangier"}
+{"stadium_id":98,"stadium":"Estádio do Sport Lisboa e Benfica ","capacity":"64642","city":"Lisbon"}
+{"stadium_id":99,"stadium":"Stade du 5-juillet-1962 ","capacity":"64000","city":"Algiers"}
+{"stadium_id":100,"stadium":"Castelão","capacity":"63903","city":"Fortaleza, Ceará"}
+{"stadium_id":101,"stadium":"Saitama Stadium 2002","capacity":"63700","city":"Saitama"}
+{"stadium_id":102,"stadium":"Ellis Park Stadium","capacity":"62567","city":"Johannesburg, Gauteng"}
+{"stadium_id":103,"stadium":"Tottenham Hotspur Stadium","capacity":"62303","city":"London"}
+{"stadium_id":104,"stadium":"VELTINS-Arena","capacity":"62271","city":"Gelsenkirchen"}
+{"stadium_id":105,"stadium":"Yizhong Sports Centre Stadium","capacity":"62000","city":"Qingdao, Shandong"}
+{"stadium_id":106,"stadium":"Estádio Governador Magalhães Pinto","capacity":"61846","city":"Belo Horizonte, Minas Gerais"}
+{"stadium_id":107,"stadium":"King Fahd International Stadium","capacity":"61781","city":"Riyadh"}
+{"stadium_id":108,"stadium":"Soldier Field","capacity":"61500","city":"Chicago"}
+{"stadium_id":109,"stadium":"Nanjing Olympic Sports Centre Stadium","capacity":"61443","city":"Nanjing, Jiangsu"}
+{"stadium_id":110,"stadium":"Anfield","capacity":"61276","city":"Liverpool, England"}
+{"stadium_id":111,"stadium":"Estadio Benito Villamarín","capacity":"60720","city":"Seville"}
+{"stadium_id":112,"stadium":"Abuja Stadium ","capacity":"60491","city":"Abuja"}
+{"stadium_id":113,"stadium":"MHPArena","capacity":"60469","city":"Stuttgart"}
+{"stadium_id":114,"stadium":"Celtic Park ","capacity":"60411","city":"Glasgow"}
+{"stadium_id":115,"stadium":"Estadio de la UNSA","capacity":"60370","city":"Arequipa"}
+{"stadium_id":116,"stadium":"Emirates Stadium","capacity":"60338","city":"London"}
+{"stadium_id":117,"stadium":"Shenzhen Universiade Sports Centre Stadium","capacity":"60334","city":"Shenzhen, Guangdong"}
+{"stadium_id":118,"stadium":"Estadio Centenario ","capacity":"60235","city":"Montevideo"}
+{"stadium_id":119,"stadium":"Estádio José do Rego Maciel","capacity":"60044","city":"Recife, Pernambuco"}
+{"stadium_id":120,"stadium":"Al-Bayt Stadium","capacity":"60000","city":"Al-Khor"}
+{"stadium_id":121,"stadium":"Benjamin Mkapa National Stadium ","capacity":"60000","city":"Dar es-Salaam"}
+{"stadium_id":122,"stadium":"Hefei Olympic Sports Centre Stadium","capacity":"60000","city":"Hefei, Anhui"}
+{"stadium_id":123,"stadium":"Jaber al-Ahmad International Stadium ","capacity":"60000","city":"Kuwait City"}
+{"stadium_id":124,"stadium":"Hammadi Agrebi Stadium ","capacity":"60000","city":"Tunis"}
+{"stadium_id":125,"stadium":"Jawaharlal Nehru Stadium","capacity":"60000","city":"New Delhi"}
+{"stadium_id":126,"stadium":"Mogadishu Stadium ","capacity":"60000","city":"Mogadishu"}
+{"stadium_id":127,"stadium":"National Heroes Stadium ","capacity":"60000","city":"Lusaka"}
+{"stadium_id":128,"stadium":"Autzen Stadium","capacity":"60000","city":"Eugene, Oregon"}
+{"stadium_id":129,"stadium":"Odi Stadium","capacity":"60000","city":"Mabopane, Gauteng"}
+{"stadium_id":130,"stadium":"Morodok Techo National Stadium","capacity":"60000","city":"Phnom Penh"}
+{"stadium_id":131,"stadium":"Shenyang Olympic Sports Centre Stadium","capacity":"60000","city":"Shenyang, Liaoning"}
+{"stadium_id":132,"stadium":"Optus Stadium","capacity":"60000","city":"Perth, Western Australia"}
+{"stadium_id":133,"stadium":"Estadio Monumental Isidro Romero Carbo ","capacity":"59283","city":"Guayaquil"}
+{"stadium_id":134,"stadium":"Groupama Stadium","capacity":"59186","city":"Décines-Charpieu"}
+{"stadium_id":135,"stadium":"Chongqing Olympic Sports Centre Stadium","capacity":"58680","city":"Chongqing"}
+{"stadium_id":136,"stadium":"Kazimierz Górski National Stadium ","capacity":"58580","city":"Warsaw"}
+{"stadium_id":137,"stadium":"Stadio San Nicola","capacity":"58270","city":"Bari, Apulia"}
+{"stadium_id":138,"stadium":"Commanders Field","capacity":"58000","city":"Landover, Maryland"}
+{"stadium_id":139,"stadium":"Deutsche Bank Park","capacity":"58000","city":"Frankfurt"}
+{"stadium_id":140,"stadium":"Estadio La Cartuja de Sevilla","capacity":"57619","city":"Seville"}
+{"stadium_id":141,"stadium":"Carter–Finley Stadium","capacity":"57583","city":"Raleigh, North Carolina"}
+{"stadium_id":142,"stadium":"La Bombonera","capacity":"57200","city":"Buenos Aires"}
+{"stadium_id":143,"stadium":"Volksparkstadion","capacity":"57030","city":"Hamburg"}
+{"stadium_id":144,"stadium":"Estadio Mario Alberto Kempes","capacity":"57000","city":"Córdoba"}
+{"stadium_id":145,"stadium":"Jinan Olympic Sports Centre Stadium","capacity":"56808","city":"Jinan, Shandong"}
+{"stadium_id":146,"stadium":"Estadio Jalisco","capacity":"56713","city":"Guadalajara, Jalisco"}
+{"stadium_id":147,"stadium":"Commonwealth Stadium","capacity":"56302","city":"Edmonton, Alberta"}
+{"stadium_id":148,"stadium":"Dodger Stadium","capacity":"56000","city":"Los Angeles"}
+{"stadium_id":149,"stadium":"Stade du 19-mai-1956","capacity":"56000","city":"Annaba"}
+{"stadium_id":150,"stadium":"Estadi Olímpic Lluís Companys","capacity":"55926","city":"Barcelona, Catalonia"}
+{"stadium_id":151,"stadium":"Arena do Grêmio","capacity":"55662","city":"Porto Alegre, Rio Grande do Sul"}
+{"stadium_id":152,"stadium":"Arena Națională ","capacity":"55634","city":"Bucharest"}
+{"stadium_id":153,"stadium":"Stadion Rajko Mitić ","capacity":"55538","city":"Belgrade"}
+{"stadium_id":154,"stadium":"Stadion Śląski","capacity":"55211","city":"Chorzów"}
+{"stadium_id":155,"stadium":"Etihad Stadium","capacity":"55097","city":"Manchester, North West England"}
+{"stadium_id":156,"stadium":"Mestalla","capacity":"55000","city":"Valencia"}
+{"stadium_id":157,"stadium":"National Stadium ","capacity":"55000","city":"Singapore"}
+{"stadium_id":158,"stadium":"National Stadium ","capacity":"55000","city":"Kaohsiung"}
+{"stadium_id":159,"stadium":"He Long Stadium","capacity":"55000","city":"Changsha, Hunan"}
+{"stadium_id":160,"stadium":"Cape Town Stadium","capacity":"55000","city":"Cape Town, Western Cape"}
+{"stadium_id":161,"stadium":"Plovdiv Stadium ","capacity":"55000","city":"Plovdiv"}
+{"stadium_id":162,"stadium":"Bobby Dodd Stadium","capacity":"55000","city":"Atlanta"}
+{"stadium_id":163,"stadium":"Johan Cruijff Arena ","capacity":"54990","city":"Amsterdam"}
+{"stadium_id":164,"stadium":"Tianhe Stadium","capacity":"54856","city":"Guangzhou, Guangdong"}
+{"stadium_id":165,"stadium":"Stadio Diego Armando Maradona","capacity":"54726","city":"Naples"}
+{"stadium_id":166,"stadium":"Tianjin Olympic Sports Centre Stadium","capacity":"54696","city":"Tianjin"}
+{"stadium_id":167,"stadium":"MERKUR SPIEL-ARENA","capacity":"54600","city":"Düsseldorf"}
+{"stadium_id":168,"stadium":"Boris Paitchadze Dinamo Arena ","capacity":"54549","city":"Tbilisi"}
+{"stadium_id":169,"stadium":"Wuhan Sports Centre Stadium","capacity":"54357","city":"Wuhan, Hubei"}
+{"stadium_id":170,"stadium":"BC Place Stadium","capacity":"54320","city":"Vancouver, British Columbia"}
+{"stadium_id":171,"stadium":"Yankee Stadium","capacity":"54251","city":"New York City"}
+{"stadium_id":172,"stadium":"Hrazdan Stadium ","capacity":"54208","city":"Yerevan"}
+{"stadium_id":173,"stadium":"BORUSSIA-PARK","capacity":"54057","city":"Mönchengladbach"}
+{"stadium_id":174,"stadium":"Moses Mabhida Stadium","capacity":"54000","city":"Durban, KwaZulu-Natal"}
+{"stadium_id":175,"stadium":"Busan Asiad Main Stadium","capacity":"53864","city":"Busan"}
+{"stadium_id":176,"stadium":"Estádio Estadual Jornalista Edgar Augusto Proença","capacity":"53645","city":"Belém, Pará"}
+{"stadium_id":177,"stadium":"Estadio Único Diego Armando Maradona","capacity":"53600","city":"La Plata"}
+{"stadium_id":178,"stadium":"Adelaide Oval","capacity":"53500","city":"Adelaide, South Australia"}
+{"stadium_id":179,"stadium":"Docklands Stadium","capacity":"53359","city":"Melbourne, Victoria"}
+{"stadium_id":180,"stadium":"Estádio Municipal João Havelange","capacity":"53350","city":"Uberlândia, Minas Gerais"}
+{"stadium_id":181,"stadium":"San Mamés","capacity":"53332","city":"Bilbao"}
+{"stadium_id":182,"stadium":"Aleppo International Stadium ","capacity":"53200","city":"Aleppo"}
+{"stadium_id":183,"stadium":"Estadio Nacional","capacity":"53086","city":"Lima"}
+{"stadium_id":184,"stadium":"Huanglong Stadium","capacity":"52672","city":"Hangzhou, Zhejiang"}
+{"stadium_id":185,"stadium":"RAMS Park","capacity":"52652","city":"Istanbul"}
+{"stadium_id":186,"stadium":"Suncorp Stadium","capacity":"52500","city":"Brisbane, Queensland"}
+{"stadium_id":187,"stadium":"St. James' Park","capacity":"52405","city":"Newcastle upon Tyne, North East"}
+{"stadium_id":188,"stadium":"Kings Park Stadium","capacity":"52000","city":"Durban, KwaZulu-Natal"}
+{"stadium_id":189,"stadium":"Newlands Stadium","capacity":"51900","city":"Cape Town, Western Cape"}
+{"stadium_id":190,"stadium":"Hampden Park","capacity":"51866","city":"Glasgow"}
+{"stadium_id":191,"stadium":"Estadio Monumental de Maturín ","capacity":"51796","city":"Maturín"}
+{"stadium_id":192,"stadium":"Loftus Versfeld Stadium","capacity":"51762","city":"Pretoria, Gauteng"}
+{"stadium_id":193,"stadium":"Aviva Stadium ","capacity":"51700","city":"Dublin"}
+{"stadium_id":194,"stadium":"Guiyang Olympic Sports Centre Stadium","capacity":"51638","city":"Guiyang, Guizhou"}
+{"stadium_id":195,"stadium":"Hohhot City Stadium","capacity":"51632","city":"Hohhot, Inner Mongolia"}
+{"stadium_id":196,"stadium":"Rajamangala National Stadium ","capacity":"51552","city":"Bangkok"}
+{"stadium_id":197,"stadium":"Donbass Arena","capacity":"51504","city":"Donetsk"}
+{"stadium_id":198,"stadium":"El Cilindro","capacity":"51389","city":"Avellaneda"}
+{"stadium_id":199,"stadium":"İzmir Atatürk Stadyumu","capacity":"51295","city":"İzmir"}
+{"stadium_id":200,"stadium":"Stadion Feijenoord","capacity":"51117","city":"Rotterdam"}
+{"stadium_id":201,"stadium":"Estadio BBVA","capacity":"51000","city":"Monterrey"}
+{"stadium_id":202,"stadium":"Ghadir Stadium","capacity":"51000","city":"Ahvaz"}
+{"stadium_id":203,"stadium":"Estádio José Pinheiro Borda","capacity":"50942","city":"Porto Alegre. Rio Grande do Sul"}
+{"stadium_id":204,"stadium":"Ibrox Stadium","capacity":"50817","city":"Glasgow"}
+{"stadium_id":205,"stadium":"Shizuoka Stadium","capacity":"50889","city":"Fukuroi, Shizuoka"}
+{"stadium_id":206,"stadium":"Ernst-Happel-Stadion ","capacity":"50865","city":"Vienna"}
+{"stadium_id":207,"stadium":"Huntington Bank Stadium","capacity":"50805","city":"Minneapolis"}
+{"stadium_id":208,"stadium":"Estadio Cuauhtémoc","capacity":"50754","city":"Puebla"}
+{"stadium_id":209,"stadium":"Strawberry Arena ","capacity":"50653","city":"Solna"}
+{"stadium_id":210,"stadium":"Ülker Stadyumu","capacity":"50509","city":"Istanbul"}
+{"stadium_id":211,"stadium":"Stanford Stadium","capacity":"50424","city":"Palo Alto, California"}
+{"stadium_id":212,"stadium":"Stade Pierre-Mauroy","capacity":"50186","city":"Villeneuve-d'Ascq"}
+{"stadium_id":213,"stadium":"Stade Roi Baudouin ","capacity":"50122","city":"Brussels"}
+{"stadium_id":214,"stadium":"Shaanxi Province Stadium","capacity":"50100","city":"Xi'an, Shaanxi"}
+{"stadium_id":215,"stadium":"Ajinomoto Stadium","capacity":"50100","city":"Chofu, Tokyo"}
+{"stadium_id":216,"stadium":"Estádio José Alvalade","capacity":"50095","city":"Lisbon"}
+{"stadium_id":217,"stadium":"Estádio do Dragão","capacity":"50033","city":"Porto"}
+{"stadium_id":218,"stadium":"Casa de Apostas Arena Fonte Nova","capacity":"50025","city":"Salvador, Bahia"}
+{"stadium_id":219,"stadium":"Stade Olympique de Sousse","capacity":"50000","city":"Sousse"}
+{"stadium_id":220,"stadium":"RheinEnergieSTADION","capacity":"50000","city":"Cologne"}
+{"stadium_id":221,"stadium":"Harbin Sports City Centre Stadium","capacity":"50000","city":"Harbin, Heilongjiang"}
+{"stadium_id":222,"stadium":"Greenfield International Stadium","capacity":"50000","city":"Trivandrum"}
+{"stadium_id":223,"stadium":"EMS Stadium","capacity":"50000","city":"Kozhikode"}
+{"stadium_id":224,"stadium":"KD Singh Babu Stadium","capacity":"50000","city":"Lucknow"}
+{"stadium_id":225,"stadium":"Eden Park ","capacity":"50000","city":"Auckland"}
+{"stadium_id":226,"stadium":"Estádio 11 de Novembro ","capacity":"50000","city":"Luanda"}
+{"stadium_id":227,"stadium":"Henan Provincial Stadium","capacity":"50000","city":"Zhengzhou, Henan"}
+{"stadium_id":228,"stadium":"Jiangxi Olympic Sports Center","capacity":"50000","city":"Nanchang, Jiangxi"}
+{"stadium_id":229,"stadium":"Max-Morlock-Stadion","capacity":"50000","city":"Nuremberg"}
+{"stadium_id":230,"stadium":"June 11 Stadium ","capacity":"50000","city":"Tripoli"}
+{"stadium_id":231,"stadium":"Xinjiang Sports Centre Stadium","capacity":"50000","city":"Urumqi, Xinjiang"}
+{"stadium_id":232,"stadium":"Kim Il-sung Stadium","capacity":"50000","city":"Pyongyang"}
+{"stadium_id":233,"stadium":"EDION Stadium Hiroshima","capacity":"50000","city":"Hiroshima"}
+{"stadium_id":234,"stadium":"Pars Shiraz Stadium","capacity":"50000","city":"Shiraz"}
+{"stadium_id":235,"stadium":"Stade du 26 mars ","capacity":"50000","city":"Bamako"}
+{"stadium_id":236,"stadium":"Stade Abdoulaye Wade","capacity":"50000","city":"Dakar"}
+{"stadium_id":237,"stadium":"Sultan Mizan Zainal Abidin Stadium","capacity":"50000","city":"Kuala Terengganu"}
+{"stadium_id":238,"stadium":"Estadio Akron","capacity":"49850","city":"Guadalajara"}
+{"stadium_id":239,"stadium":"Levy Mwanawasa Stadium","capacity":"49800","city":"Lusaka"}
+{"stadium_id":240,"stadium":"Fritz-Walter-Stadion","capacity":"49780","city":"Kaiserslautern"}
+{"stadium_id":241,"stadium":"Estadio José Amalfitani","capacity":"49540","city":"Buenos Aires"}
+{"stadium_id":242,"stadium":"Camille Chamoun Sports City Stadium ","capacity":"49500","city":"Beirut"}
+{"stadium_id":243,"stadium":"Miyagi Stadium","capacity":"49133","city":"Rifu, Miyagi"}
+{"stadium_id":244,"stadium":"Incheon Munhak Stadium","capacity":"49084","city":"Incheon"}
+{"stadium_id":245,"stadium":"Heinz-von-Heiden-Arena","capacity":"49000","city":"Hanover"}
+{"stadium_id":246,"stadium":"Parc des Princes","capacity":"48712","city":"Paris"}
+{"stadium_id":247,"stadium":"Stadium of Light","capacity":"48707","city":"Sunderland, Tyne and Wear"}
+{"stadium_id":248,"stadium":"Estadio Nacional ","capacity":"48665","city":"Santiago"}
+{"stadium_id":249,"stadium":"Nelson Mandela Bay Stadium","capacity":"48459","city":"Port Elizabeth, Eastern Cape"}
+{"stadium_id":250,"stadium":"Estadio Tomás Adolfo Ducó","capacity":"48314","city":"Buenos Aires"}
+{"stadium_id":251,"stadium":"Jinnah Sports Stadium ","capacity":"48200","city":"Islamabad"}
+{"stadium_id":252,"stadium":"Estadio Libertadores de América","capacity":"48069","city":"Avellaneda"}
+{"stadium_id":253,"stadium":"Free State Stadium","capacity":"48000","city":"Bloemfontein, Free State"}
+{"stadium_id":254,"stadium":"Nagai Stadium","capacity":"47816","city":"Osaka"}
+{"stadium_id":255,"stadium":"Neo Química Arena","capacity":"47605","city":"São Paulo, São Paulo"}
+{"stadium_id":256,"stadium":"Rogers Centre","capacity":"47568","city":"Toronto, Ontario"}
+{"stadium_id":257,"stadium":"Estadio Monumental","capacity":"47347","city":"Santiago"}
+{"stadium_id":258,"stadium":"Stadio Artemio Franchi","capacity":"47282","city":"Florence"}
+{"stadium_id":259,"stadium":"Estadio Ciudad de Lanús – Néstor Díaz Pérez","capacity":"47027","city":"Lanús"}
+{"stadium_id":260,"stadium":"Estadio Metropolitano Roberto Meléndez","capacity":"46788","city":"Barranquilla"}
+{"stadium_id":261,"stadium":"Estádio Olímpico Nilton Santos","capacity":"46831","city":"Rio de Janeiro, Rio de Janeiro"}
+{"stadium_id":262,"stadium":"Itaipava Arena Pernambuco","capacity":"46154","city":"São Lourenço da Mata, Pernambuco"}
+{"stadium_id":263,"stadium":"Arena MRV","capacity":"46000","city":"Belo Horizonte, Minas Gerais"}
+{"stadium_id":264,"stadium":"Estádio Paulo Constantino","capacity":"45954","city":"Presidente Prudente, São Paulo"}
+{"stadium_id":265,"stadium":"Estadio Atanasio Girardot","capacity":"45739","city":"Medellín"}
+{"stadium_id":266,"stadium":"Estadio Ramón Sánchez Pizjuán","capacity":"45500","city":"Seville"}
+{"stadium_id":267,"stadium":"Adrar Stadium","capacity":"45480","city":"Agadir"}
+{"stadium_id":268,"stadium":"Lukoil Arena","capacity":"45360","city":"Moscow"}
+{"stadium_id":269,"stadium":"Grand stade de Marrakech","capacity":"45240","city":"Marrakesh"}
+{"stadium_id":270,"stadium":"Mandela National Stadium ","capacity":"45202","city":"Kampala"}
+{"stadium_id":271,"stadium":"Tarczyński Arena Wrocław","capacity":"45105","city":"Wrocław"}
+{"stadium_id":272,"stadium":"Kazan Arena","capacity":"45105","city":"Kazan"}
+{"stadium_id":273,"stadium":"Estadio Inca Garcilaso de la Vega","capacity":"45056","city":"Cusco"}
+{"stadium_id":274,"stadium":"Estádio da Machava ","capacity":"45000","city":"Maputo"}
+{"stadium_id":275,"stadium":"Stadion Gelora Bung Tomo","capacity":"45000","city":"Surabaya, East Java"}
+{"stadium_id":276,"stadium":"Stadion Harapan Banga","capacity":"45000","city":"Banda Aceh, Aceh"}
+{"stadium_id":277,"stadium":"Estadio General Pablo Rojas ","capacity":"45000","city":"Asunción"}
+{"stadium_id":278,"stadium":"Stade Mohammed V ","capacity":"45000","city":"Casablanca"}
+{"stadium_id":279,"stadium":"Latakia Sports City Stadium","capacity":"45000","city":"Latakia"}
+{"stadium_id":280,"stadium":"Zibo Sports Centre Stadium","capacity":"45000","city":"Zibo, Shandong"}
+{"stadium_id":281,"stadium":"Weifang Sports Centre Stadium","capacity":"45000","city":"Weifang, Shandong"}
+{"stadium_id":282,"stadium":"Yantai Sports Park Stadium","capacity":"45000","city":"Yantai, Shandong"}
+{"stadium_id":283,"stadium":"Stadium Tuanku Abdul Rahman","capacity":"45000","city":"Seremban"}
+{"stadium_id":284,"stadium":"Stade du Complexe sportif de Fès","capacity":"45000","city":"Fes"}
+{"stadium_id":285,"stadium":"Lagos National Stadium","capacity":"45000","city":"Lagos"}
+{"stadium_id":286,"stadium":"Egyptian Army Stadium","capacity":"45000","city":"Suez"}
+{"stadium_id":287,"stadium":"Toyota Stadium","capacity":"45000","city":"Toyota City, Aichi"}
+{"stadium_id":288,"stadium":"Zayed Sports City Stadium","capacity":"45000","city":"Abu Dhabi"}
+{"stadium_id":289,"stadium":"Red Bull Arena","capacity":"44345","city":"Leipzig"}
+{"stadium_id":290,"stadium":"Estádio Governador Alberto Tavares Silva","capacity":"44200","city":"Teresina"}
+{"stadium_id":291,"stadium":"Estádio Universitário Pedro Pedrossian","capacity":"44200","city":"Campo Grande, Mato Grosso do Sul"}
+{"stadium_id":292,"stadium":"Ulsan Munsu Football Stadium","capacity":"44102","city":"Ulsan"}
+{"stadium_id":293,"stadium":"Arena Pantanal","capacity":"44097","city":"Cuiabá, Mato Grosso"}
+{"stadium_id":294,"stadium":"Arena da Amazônia","capacity":"44000","city":"Manaus, Amazonas"}
+{"stadium_id":295,"stadium":"Suwon World Cup Stadium","capacity":"43959","city":"Suwon"}
+{"stadium_id":296,"stadium":"Stadion Utama Riau","capacity":"43923","city":"Pekanbaru, Riau"}
+{"stadium_id":297,"stadium":"Allianz Parque","capacity":"43713","city":"São Paulo, São Paulo"}
+{"stadium_id":298,"stadium":"Shandong Provincial Stadium","capacity":"43700","city":"Jinan, Shandong"}
+{"stadium_id":299,"stadium":"Polsat Plus Arena Gdańsk","capacity":"43615","city":"Gdańsk"}
+{"stadium_id":300,"stadium":"Estadio Pedro Bidegain","capacity":"43494","city":"Buenos Aires"}
+{"stadium_id":301,"stadium":"Stadion Miejski w Poznaniu","capacity":"43269","city":"Poznań"}
+{"stadium_id":302,"stadium":"Vasil Levski National Stadium","capacity":"43230","city":"Sofia"}
+{"stadium_id":303,"stadium":"Estadio Universidad San Marcos","capacity":"43000","city":"Lima"}
+{"stadium_id":304,"stadium":"Ullevi","capacity":"43000","city":"Gothenburg"}
+{"stadium_id":305,"stadium":"Jinzhou Binhai Sports Centre Stadium","capacity":"43000","city":"Jinzhou"}
+{"stadium_id":306,"stadium":"Estadio General Santander","capacity":"42901","city":"Cúcuta"}
+{"stadium_id":307,"stadium":"Villa Park","capacity":"42682","city":"Birmingham, West Midlands"}
+{"stadium_id":308,"stadium":"Perak Stadium","capacity":"42500","city":"Perak"}
+{"stadium_id":309,"stadium":"Jeonju World Cup Stadium","capacity":"42477","city":"Jeonju"}
+{"stadium_id":310,"stadium":"Ligga Arena","capacity":"42372","city":"Curitiba, Paraná"}
+{"stadium_id":311,"stadium":"Weserstadion","capacity":"42358","city":"Bremen"}
+{"stadium_id":312,"stadium":"Denka Big Swan Stadium","capacity":"42300","city":"Niigata, Niigata"}
+{"stadium_id":313,"stadium":"Estadio Olimpico Metropolitano de Mérida","capacity":"42200","city":"Mérida"}
+{"stadium_id":314,"stadium":"Daejeon World Cup Stadium","capacity":"42176","city":"Daejeon"}
+{"stadium_id":315,"stadium":"Matmut ATLANTIQUE","capacity":"42115","city":"Bordeaux"}
+{"stadium_id":316,"stadium":"Helsingin Olympiastadion ","capacity":"42062","city":"Helsinki"}
+{"stadium_id":317,"stadium":"Estádio Serra Dourada","capacity":"42000","city":"Goiânia, Goiás"}
+{"stadium_id":318,"stadium":"Estadio Deportivo Cali ","capacity":"42000","city":"Cali"}
+{"stadium_id":319,"stadium":"Estadio Modelo Alberto Spencer","capacity":"42000","city":"Guayaquil"}
+{"stadium_id":320,"stadium":"Estádio do Zimpeto","capacity":"42000","city":"Maputo"}
+{"stadium_id":321,"stadium":"Chengdu Sports Centre Stadium","capacity":"42000","city":"Chengdu, Sichuan"}
+{"stadium_id":322,"stadium":"Royal Bafokeng Stadium","capacity":"42000","city":"Phokeng, North West"}
+{"stadium_id":323,"stadium":"Estadio Universitario","capacity":"42000","city":"San Nicolás de los Garza"}
+{"stadium_id":324,"stadium":"Estadio Brigadier General Estanislao López","capacity":"42000","city":"Santa Fe"}
+{"stadium_id":325,"stadium":"Estadio Marcelo Bielsa","capacity":"42000","city":"Rosario"}
+{"stadium_id":326,"stadium":"Stade Geoffroy-Guichard","capacity":"41965","city":"Saint-Étienne"}
+{"stadium_id":327,"stadium":"Vodafone Park","capacity":"41903","city":"Istanbul"}
+{"stadium_id":328,"stadium":"Peter Mokaba Stadium","capacity":"41733","city":"Polokwane"}
+{"stadium_id":329,"stadium":"Estadio Gigante de Arroyito","capacity":"41654","city":"Rosario"}
+{"stadium_id":330,"stadium":"Estadio Cachamay","capacity":"41600","city":"Ciudad Guayana"}
+{"stadium_id":331,"stadium":"Estadio de Liga Deportiva Universitaria","capacity":"41596","city":"Quito"}
+{"stadium_id":332,"stadium":"Allianz Stadium","capacity":"41507","city":"Turin, Piedmont"}
+{"stadium_id":333,"stadium":"Sapporo Dome","capacity":"41484","city":"Sapporo, Hokkaido"}
+{"stadium_id":334,"stadium":"Stamford Bridge","capacity":"41663","city":"London"}
+{"stadium_id":335,"stadium":"Goyang Stadium","capacity":"41311","city":"Goyang"}
+{"stadium_id":336,"stadium":"Estadio Hernando Siles ","capacity":"41143","city":"La Paz"}
+{"stadium_id":337,"stadium":"Bingu National Stadium","capacity":"41100","city":"Lilongwe"}
+{"stadium_id":338,"stadium":"Mbombela Stadium","capacity":"40929","city":"Nelspruit, Mpumalanga"}
+{"stadium_id":339,"stadium":"Estadio José Pachencho Romero","capacity":"40800","city":"Maracaibo"}
+{"stadium_id":340,"stadium":"Stade Nelson Mandela","capacity":"40784","city":"Algiers"}
+{"stadium_id":341,"stadium":"Kashima Football Stadium","capacity":"40728","city":"Kashima, Ibaraki"}
+{"stadium_id":342,"stadium":"Baba Yara Stadium ","capacity":"40528","city":"Kumasi"}
+{"stadium_id":343,"stadium":"Estádio Major Antônio Couto Pereira","capacity":"40502","city":"Curitiba, Paraná"}
+{"stadium_id":344,"stadium":"Stage Front Stadium","capacity":"40500","city":"Barcelona"}
+{"stadium_id":345,"stadium":"Estadio Metropolitano de fútbol de Lara","capacity":"40312","city":"Barquisimeto"}
+{"stadium_id":346,"stadium":"Estadio Malvinas Argentinas","capacity":"40268","city":"Mendoza"}
+{"stadium_id":347,"stadium":"Stadion Lukas Enembe","capacity":"40263","city":"Nolokla"}
+{"stadium_id":348,"stadium":"Gwangju World Cup Stadium","capacity":"40245","city":"Gwangju"}
+{"stadium_id":349,"stadium":"Sân vận động Quốc gia Mỹ Đình ","capacity":"40192","city":"Hanoi"}
+{"stadium_id":350,"stadium":"Goodison Park","capacity":"40157","city":"Liverpool, North West"}
+{"stadium_id":351,"stadium":"Estádio Governador João Castelo","capacity":"40149","city":"São Luís, Maranhão"}
+{"stadium_id":352,"stadium":"Stade Miloud-Hadefi","capacity":"40143","city":"Oran"}
+{"stadium_id":353,"stadium":"Estadio Campeón del Siglo","capacity":"40005","city":"Montevideo"}
+{"stadium_id":354,"stadium":"Metalist Stadium","capacity":"40003","city":"Kharkiv"}
+{"stadium_id":355,"stadium":"Al-Janoub Stadium","capacity":"40000","city":"Al-Wakrah"}
+{"stadium_id":356,"stadium":"Al-Thumama Stadium","capacity":"40000","city":"Al-Thumama"}
+{"stadium_id":357,"stadium":"Stade Ahmed-Zabana","capacity":"40000","city":"Oran"}
+{"stadium_id":358,"stadium":"Stadion Batakan","capacity":"40000","city":"Balikpapan, East Kalimantan"}
+{"stadium_id":359,"stadium":"Stadion Gelora Joko Samudro","capacity":"40000","city":"Gresik, East Java"}
+{"stadium_id":360,"stadium":"Fisht Olympic Stadium","capacity":"40000","city":"Sochi"}
+{"stadium_id":361,"stadium":"Rentschler Field","capacity":"40000","city":"East Hartford, Connecticut"}
+{"stadium_id":362,"stadium":"Jawaharlal Nehru Stadium","capacity":"40000","city":"Kochi"}
+{"stadium_id":363,"stadium":"Hang Jebat Stadium","capacity":"40000","city":"Malacca"}
+{"stadium_id":364,"stadium":"Hong Kong Stadium ","capacity":"40000","city":"So Kon Po"}
+{"stadium_id":365,"stadium":"Stadium Negeri Pulau Pinang","capacity":"40000","city":"Batu Kawan"}
+{"stadium_id":366,"stadium":"Accra Sports Stadium","capacity":"40000","city":"Accra"}
+{"stadium_id":367,"stadium":"Sarawak Stadium","capacity":"40000","city":"Kuching"}
+{"stadium_id":368,"stadium":"Bogyoke Aung San Stadium ","capacity":"40000","city":"Yangon"}
+{"stadium_id":369,"stadium":"Resonac Dome Ōita","capacity":"40000","city":"Ōita"}
+{"stadium_id":370,"stadium":"Stadium Darul Makmur","capacity":"40000","city":"Kuantan"}
+{"stadium_id":371,"stadium":"Khalifa International Stadium","capacity":"40000","city":"Doha"}
+{"stadium_id":372,"stadium":"Stade de l’Amitié sino-gabonaise ","capacity":"40000","city":"Libreville"}
+{"stadium_id":373,"stadium":"Peoples Football Stadium","capacity":"40000","city":"Karachi"}
+{"stadium_id":374,"stadium":"JRD Tata Sports Complex Stadium","capacity":"40000","city":"Jamshedpur"}
+{"stadium_id":375,"stadium":"Bao'an Stadium","capacity":"40000","city":"Shenzhen, Guangdong"}
+{"stadium_id":376,"stadium":"Kunming Tuodong Sports Centre Stadium","capacity":"40000","city":"Kunming, Yunnan"}
+{"stadium_id":377,"stadium":"Taizhou Sports Centre Stadium","capacity":"40000","city":"Taizhou, Zhejiang"}
+{"stadium_id":378,"stadium":"Wuhu Olympic Stadium","capacity":"40000","city":"Wuhu, Anhui"}
+{"stadium_id":379,"stadium":"Huizhou Olympic Stadium","capacity":"40000","city":"Huizhou, Guangdong"}
