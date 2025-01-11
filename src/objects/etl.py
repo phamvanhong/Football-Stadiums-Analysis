@@ -42,7 +42,7 @@ class ETL:
         # Drop unnecessary columns
         data = data.drop(kwargs['cols_drop'], axis = 1)
 
-        # Remove special characters except comma, space, "-", and "'"
+        # Remove special characters
         data = data.apply(lambda col: col.map(lambda x: re.sub(r"[♦]|\[\d+\]|\[\w+\]", "", x) if isinstance(x, str) else x))
 
         # rename columns

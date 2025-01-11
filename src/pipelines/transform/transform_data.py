@@ -20,6 +20,9 @@ def transform_football_stadiums_data(dataframe: pd.DataFrame) -> pd.DataFrame:
     # Remove commas from the Capacity column
     football_stadium_df['capacity'] = football_stadium_df['capacity'].str.replace(
         ',', '', regex=True)
+    
+    # Fill missing values in the home_teams columns with "Unknown"
+    football_stadium_df['home_teams'] = football_stadium_df['home_teams'].fillna("Unknown")
 
     # Change values in the Region column to "Asia" if they contain the word "Asia"
     football_stadium_df['continent'] = football_stadium_df['continent'].str.replace(
