@@ -1,85 +1,86 @@
-{"country_id":"AE","country":"United Arab Emirates","continent_id":"AS"}
-{"country_id":"AM","country":"Armenia","continent_id":"AS"}
-{"country_id":"AO","country":"Angola","continent_id":"AF"}
-{"country_id":"AR","country":"Argentina","continent_id":"SA"}
-{"country_id":"AT","country":"Austria","continent_id":"EU"}
-{"country_id":"AU","country":"Australia","continent_id":"OC"}
-{"country_id":"AZ","country":"Azerbaijan","continent_id":"AS"}
-{"country_id":"BE","country":"Belgium","continent_id":"EU"}
-{"country_id":"BG","country":"Bulgaria","continent_id":"EU"}
-{"country_id":"BO","country":"Bolivia","continent_id":"SA"}
-{"country_id":"BR","country":"Brazil","continent_id":"SA"}
-{"country_id":"CA","country":"Canada","continent_id":"NA"}
-{"country_id":"CG","country":"DR Congo","continent_id":"AF"}
-{"country_id":"CL","country":"Chile","continent_id":"SA"}
-{"country_id":"CN","country":"China","continent_id":"AS"}
-{"country_id":"CO","country":"Colombia","continent_id":"SA"}
-{"country_id":"DE","country":"Germany","continent_id":"EU"}
-{"country_id":"DZ","country":"Algeria","continent_id":"AF"}
-{"country_id":"EC","country":"Ecuador","continent_id":"SA"}
-{"country_id":"EG","country":"Egypt","continent_id":"AF"}
-{"country_id":"ENG","country":"England","continent_id":"EU"}
-{"country_id":"ES","country":"Spain","continent_id":"EU"}
-{"country_id":"FI","country":"Finland","continent_id":"EU"}
-{"country_id":"FR","country":"France","continent_id":"EU"}
-{"country_id":"GA","country":"Gabon","continent_id":"AF"}
-{"country_id":"GE","country":"Georgia","continent_id":"AS"}
-{"country_id":"GH","country":"Ghana","continent_id":"AF"}
-{"country_id":"GR","country":"Greece","continent_id":"EU"}
-{"country_id":"HK","country":"Hong Kong","continent_id":"AS"}
-{"country_id":"HU","country":"Hungary","continent_id":"EU"}
-{"country_id":"ID","country":"Indonesia","continent_id":"AS"}
-{"country_id":"IE","country":"Ireland","continent_id":"EU"}
-{"country_id":"IN","country":"India","continent_id":"AS"}
-{"country_id":"IQ","country":"Iraq","continent_id":"AS"}
-{"country_id":"IR","country":"Iran","continent_id":"AS"}
-{"country_id":"IT","country":"Italy","continent_id":"EU"}
-{"country_id":"JP","country":"Japan","continent_id":"AS"}
-{"country_id":"KE","country":"Kenya","continent_id":"AF"}
-{"country_id":"KH","country":"Cambodia","continent_id":"AS"}
-{"country_id":"KP","country":"North Korea","continent_id":"AS"}
-{"country_id":"KR","country":"South Korea","continent_id":"AS"}
-{"country_id":"KW","country":"Kuwait","continent_id":"AS"}
-{"country_id":"LB","country":"Lebanon","continent_id":"AS"}
-{"country_id":"LY","country":"Libya","continent_id":"AF"}
-{"country_id":"MA","country":"Morocco","continent_id":"AF"}
-{"country_id":"ML","country":"Mali","continent_id":"AF"}
-{"country_id":"MM","country":"Myanmar","continent_id":"AS"}
-{"country_id":"MW","country":"Malawi","continent_id":"AF"}
-{"country_id":"MX","country":"Mexico","continent_id":"NA"}
-{"country_id":"MY","country":"Malaysia","continent_id":"AS"}
-{"country_id":"MZ","country":"Mozambique","continent_id":"AF"}
-{"country_id":"NG","country":"Nigeria","continent_id":"AF"}
-{"country_id":"NL","country":"Netherlands","continent_id":"EU"}
-{"country_id":"NZ","country":"New Zealand","continent_id":"OC"}
-{"country_id":"PE","country":"Peru","continent_id":"SA"}
-{"country_id":"PK","country":"Pakistan","continent_id":"AS"}
-{"country_id":"PL","country":"Poland","continent_id":"EU"}
-{"country_id":"PT","country":"Portugal","continent_id":"EU"}
-{"country_id":"PY","country":"Paraguay","continent_id":"SA"}
-{"country_id":"QA","country":"Qatar","continent_id":"AS"}
-{"country_id":"RO","country":"Romania","continent_id":"EU"}
-{"country_id":"RS","country":"Serbia","continent_id":"EU"}
-{"country_id":"RU","country":"Russia","continent_id":"EU"}
-{"country_id":"SA","country":"Saudi Arabia","continent_id":"AS"}
-{"country_id":"SCO","country":"Scotland","continent_id":"EU"}
-{"country_id":"SE","country":"Sweden","continent_id":"EU"}
-{"country_id":"SG","country":"Singapore","continent_id":"AS"}
-{"country_id":"SN","country":"Senegal","continent_id":"AF"}
-{"country_id":"SO","country":"Somalia","continent_id":"AF"}
-{"country_id":"SY","country":"Syria","continent_id":"AS"}
-{"country_id":"TH","country":"Thailand","continent_id":"AS"}
-{"country_id":"TN","country":"Tunisia","continent_id":"AF"}
-{"country_id":"TR","country":"Turkey","continent_id":"EU"}
-{"country_id":"TW","country":"Taiwan","continent_id":"AS"}
-{"country_id":"TZ","country":"Tanzania","continent_id":"AF"}
-{"country_id":"UA","country":"Ukraine","continent_id":"EU"}
-{"country_id":"UG","country":"Uganda","continent_id":"AF"}
-{"country_id":"US","country":"United States","continent_id":"NA"}
-{"country_id":"UY","country":"Uruguay","continent_id":"SA"}
-{"country_id":"VE","country":"Venezuela","continent_id":"SA"}
-{"country_id":"VN","country":"Vietnam","continent_id":"AS"}
-{"country_id":"WAL","country":"Wales","continent_id":"EU"}
-{"country_id":"ZA","country":"South Africa","continent_id":"AF"}
-{"country_id":"ZM","country":"Zambia","continent_id":"AF"}
-{"country_id":"ZW","country":"Zimbabwe","continent_id":"AF"}
+﻿[{"country_id":"AE","country":"United Arab Emirates","continent_id":"AS"}
+,{"country_id":"AM","country":"Armenia","continent_id":"AS"}
+,{"country_id":"AO","country":"Angola","continent_id":"AF"}
+,{"country_id":"AR","country":"Argentina","continent_id":"SA"}
+,{"country_id":"AT","country":"Austria","continent_id":"EU"}
+,{"country_id":"AU","country":"Australia","continent_id":"OC"}
+,{"country_id":"AZ","country":"Azerbaijan","continent_id":"AS"}
+,{"country_id":"BE","country":"Belgium","continent_id":"EU"}
+,{"country_id":"BG","country":"Bulgaria","continent_id":"EU"}
+,{"country_id":"BO","country":"Bolivia","continent_id":"SA"}
+,{"country_id":"BR","country":"Brazil","continent_id":"SA"}
+,{"country_id":"CA","country":"Canada","continent_id":"NA"}
+,{"country_id":"CG","country":"DR Congo","continent_id":"AF"}
+,{"country_id":"CL","country":"Chile","continent_id":"SA"}
+,{"country_id":"CN","country":"China","continent_id":"AS"}
+,{"country_id":"CO","country":"Colombia","continent_id":"SA"}
+,{"country_id":"DE","country":"Germany","continent_id":"EU"}
+,{"country_id":"DZ","country":"Algeria","continent_id":"AF"}
+,{"country_id":"EC","country":"Ecuador","continent_id":"SA"}
+,{"country_id":"EG","country":"Egypt","continent_id":"AF"}
+,{"country_id":"ENG","country":"England","continent_id":"EU"}
+,{"country_id":"ES","country":"Spain","continent_id":"EU"}
+,{"country_id":"FI","country":"Finland","continent_id":"EU"}
+,{"country_id":"FR","country":"France","continent_id":"EU"}
+,{"country_id":"GA","country":"Gabon","continent_id":"AF"}
+,{"country_id":"GE","country":"Georgia","continent_id":"AS"}
+,{"country_id":"GH","country":"Ghana","continent_id":"AF"}
+,{"country_id":"GR","country":"Greece","continent_id":"EU"}
+,{"country_id":"HK","country":"Hong Kong","continent_id":"AS"}
+,{"country_id":"HU","country":"Hungary","continent_id":"EU"}
+,{"country_id":"ID","country":"Indonesia","continent_id":"AS"}
+,{"country_id":"IE","country":"Ireland","continent_id":"EU"}
+,{"country_id":"IN","country":"India","continent_id":"AS"}
+,{"country_id":"IQ","country":"Iraq","continent_id":"AS"}
+,{"country_id":"IR","country":"Iran","continent_id":"AS"}
+,{"country_id":"IT","country":"Italy","continent_id":"EU"}
+,{"country_id":"JP","country":"Japan","continent_id":"AS"}
+,{"country_id":"KE","country":"Kenya","continent_id":"AF"}
+,{"country_id":"KH","country":"Cambodia","continent_id":"AS"}
+,{"country_id":"KP","country":"North Korea","continent_id":"AS"}
+,{"country_id":"KR","country":"South Korea","continent_id":"AS"}
+,{"country_id":"KW","country":"Kuwait","continent_id":"AS"}
+,{"country_id":"LB","country":"Lebanon","continent_id":"AS"}
+,{"country_id":"LY","country":"Libya","continent_id":"AF"}
+,{"country_id":"MA","country":"Morocco","continent_id":"AF"}
+,{"country_id":"ML","country":"Mali","continent_id":"AF"}
+,{"country_id":"MM","country":"Myanmar","continent_id":"AS"}
+,{"country_id":"MW","country":"Malawi","continent_id":"AF"}
+,{"country_id":"MX","country":"Mexico","continent_id":"NA"}
+,{"country_id":"MY","country":"Malaysia","continent_id":"AS"}
+,{"country_id":"MZ","country":"Mozambique","continent_id":"AF"}
+,{"country_id":"NG","country":"Nigeria","continent_id":"AF"}
+,{"country_id":"NL","country":"Netherlands","continent_id":"EU"}
+,{"country_id":"NZ","country":"New Zealand","continent_id":"OC"}
+,{"country_id":"PE","country":"Peru","continent_id":"SA"}
+,{"country_id":"PK","country":"Pakistan","continent_id":"AS"}
+,{"country_id":"PL","country":"Poland","continent_id":"EU"}
+,{"country_id":"PT","country":"Portugal","continent_id":"EU"}
+,{"country_id":"PY","country":"Paraguay","continent_id":"SA"}
+,{"country_id":"QA","country":"Qatar","continent_id":"AS"}
+,{"country_id":"RO","country":"Romania","continent_id":"EU"}
+,{"country_id":"RS","country":"Serbia","continent_id":"EU"}
+,{"country_id":"RU","country":"Russia","continent_id":"EU"}
+,{"country_id":"SA","country":"Saudi Arabia","continent_id":"AS"}
+,{"country_id":"SCO","country":"Scotland","continent_id":"EU"}
+,{"country_id":"SE","country":"Sweden","continent_id":"EU"}
+,{"country_id":"SG","country":"Singapore","continent_id":"AS"}
+,{"country_id":"SN","country":"Senegal","continent_id":"AF"}
+,{"country_id":"SO","country":"Somalia","continent_id":"AF"}
+,{"country_id":"SY","country":"Syria","continent_id":"AS"}
+,{"country_id":"TH","country":"Thailand","continent_id":"AS"}
+,{"country_id":"TN","country":"Tunisia","continent_id":"AF"}
+,{"country_id":"TR","country":"Turkey","continent_id":"EU"}
+,{"country_id":"TW","country":"Taiwan","continent_id":"AS"}
+,{"country_id":"TZ","country":"Tanzania","continent_id":"AF"}
+,{"country_id":"UA","country":"Ukraine","continent_id":"EU"}
+,{"country_id":"UG","country":"Uganda","continent_id":"AF"}
+,{"country_id":"US","country":"United States","continent_id":"NA"}
+,{"country_id":"UY","country":"Uruguay","continent_id":"SA"}
+,{"country_id":"VE","country":"Venezuela","continent_id":"SA"}
+,{"country_id":"VN","country":"Vietnam","continent_id":"AS"}
+,{"country_id":"WAL","country":"Wales","continent_id":"EU"}
+,{"country_id":"ZA","country":"South Africa","continent_id":"AF"}
+,{"country_id":"ZM","country":"Zambia","continent_id":"AF"}
+,{"country_id":"ZW","country":"Zimbabwe","continent_id":"AF"}
+]
