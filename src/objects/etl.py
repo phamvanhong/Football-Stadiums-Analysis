@@ -43,7 +43,7 @@ class ETL:
         data = data.drop(kwargs['cols_drop'], axis = 1)
 
         # Remove special characters except comma, space, "-", and "'"
-        data = data.apply(lambda col: col.map(lambda x: re.sub(r"[^\w,\-\s']", "", x, flags=re.UNICODE) if isinstance(x, str) else x))
+        data = data.apply(lambda col: col.map(lambda x: re.sub(r"[♦]|\[\d+\]|\[\w+\]", "", x) if isinstance(x, str) else x))
 
         # rename columns
         data.columns = [col.lower() for col in data.columns]
@@ -69,8 +69,8 @@ class ETL:
         # abfs://<container>@<storage-account>.dfs.core.windows.net/<directory>/<file>
         path = f'abfs://footballstadiums@footballstadiumsdata.dfs.core.windows.net/data/{layer}/{dir}/{file_name}'
         
-        data.to_csv(path,
+        data.to_json(path,
                 storage_options={
                 ACCOUNT_KEY : azure_storage_key
-                }, index=False)
+                }, orient=RECORDS)
         return "Data loaded to the data lake"

@@ -11,7 +11,7 @@ EMPTY_STRING = ""
 TABLE = "table"
 TARGET_TABLE_INDEXES = "target_table_indexes"
 ACCOUNT_KEY = "account_key"
-CSV = "csv"
+JSON = "json"
 OP_KWARGS = "op_kwargs"
 
 # Task IDs

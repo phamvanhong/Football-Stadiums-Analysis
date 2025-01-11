@@ -1,0 +1,86 @@
+country_id,country_name,continent_id
+TR,Turkey,EU
+GR,Greece,EU
+ZW,Zimbabwe,AF
+BG,Bulgaria,EU
+UA,Ukraine,EU
+IQ,Iraq,AS
+BO,Bolivia,SA
+MX,Mexico,NA
+AZ,Azerbaijan,AS
+SO,Somalia,AF
+UY,Uruguay,SA
+DZ,Algeria,AF
+AU,Australia,OC
+NZ,New Zealand,OC
+MM,Myanmar,AS
+MZ,Mozambique,AF
+HK,Hong Kong,AS
+IR,Iran,AS
+BR,Brazil,SA
+IT,Italy,EU
+CG,DR Congo,AF
+IE,Ireland,EU
+EG,Egypt,AF
+TN,Tunisia,AF
+KR,South Korea,AS
+ML,Mali,AF
+KH,Cambodia,AS
+KE,Kenya,AF
+PE,Peru,SA
+AE,United Arab Emirates,AS
+LY,Libya,AF
+GH,Ghana,AF
+SE,Sweden,EU
+AM,Armenia,AS
+CN,China,AS
+LB,Lebanon,AS
+CA,Canada,NA
+SCO,Scotland,EU
+ZM,Zambia,AF
+KP,North Korea,AS
+TZ,Tanzania,AF
+DE,Germany,EU
+ID,Indonesia,AS
+UG,Uganda,AF
+IN,India,AS
+AO,Angola,AF
+US,United States,NA
+SN,Senegal,AF
+GA,Gabon,AF
+CO,Colombia,SA
+RS,Serbia,EU
+EC,Ecuador,SA
+NG,Nigeria,AF
+FI,Finland,EU
+AT,Austria,EU
+BE,Belgium,EU
+GE,Georgia,AS
+NL,Netherlands,EU
+MY,Malaysia,AS
+ENG,England,EU
+PK,Pakistan,AS
+PT,Portugal,EU
+MW,Malawi,AF
+SY,Syria,AS
+TH,Thailand,AS
+PL,Poland,EU
+FR,France,EU
+SG,Singapore,AS
+RU,Russia,EU
+PY,Paraguay,SA
+TW,Taiwan,AS
+SA,Saudi Arabia,AS
+KW,Kuwait,AS
+HU,Hungary,EU
+AR,Argentina,SA
+MA,Morocco,AF
+JP,Japan,AS
+QA,Qatar,AS
+ZA,South Africa,AF
+CL,Chile,SA
+RO,Romania,EU
+WAL,Wales,EU
+VE,Venezuela,SA
+ES,Spain,EU
+VN,Vietnam,AS

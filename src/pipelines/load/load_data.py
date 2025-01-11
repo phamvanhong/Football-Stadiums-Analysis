@@ -31,7 +31,7 @@ def load_data(**kwargs) -> str:
         file_name = file_names[i]
         dir = dirs[i]
 
-        csv_filename = f"{file_name}_{current_time}.{CSV}"
+        csv_filename = f"{file_name}_{current_time}.{JSON}"
 
         data = kwargs[TI].xcom_pull(key=file_name,
                                     task_ids=task_ids[layer],
