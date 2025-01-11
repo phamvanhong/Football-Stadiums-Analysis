@@ -44,11 +44,11 @@ def write_data_to_local(**kwargs):
                                       include_prior_dates=True)
         
         # Write the data to BRONZE layer on local storage
-        with open(f"data/{BRONZE}/{dirs[i]}{file_names[i]}.json", 'w') as f:
+        with open(f"{DATA}/{BRONZE}/{dirs[i]}{file_names[i]}.{JSON}", WRITE) as f:
             f.write(raw_data)
 
         # Write the data to SILVER layer on local storage
-        with open(f"data/{SILVER}/{dirs[i]}{file_names[i]}.json", 'w') as f:
+        with open(f"{DATA}/{SILVER}/{dirs[i]}{file_names[i]}.{JSON}", WRITE) as f:
             f.write(transformed_data)
 
 with DAG(

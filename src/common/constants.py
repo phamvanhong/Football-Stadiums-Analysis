@@ -13,6 +13,9 @@ TARGET_TABLE_INDEXES = "target_table_indexes"
 ACCOUNT_KEY = "account_key"
 JSON = "json"
 OP_KWARGS = "op_kwargs"
+DATA = "data"
+WRITE = "w"
+
 
 # Task IDs
 EXTRACT_WIKIPEDIA_DATA = "extract_wikipedia_data"
