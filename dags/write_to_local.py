@@ -3,11 +3,8 @@ sys.path.insert(0, '/opt/airflow/')
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from common.constants import *
+from src.common.constants import *
 from airflow.models import Variable
-
-azure_storage_key = Variable.get(AZURE_STORAGE_KEY, default_var=None)
-
 
 
 default_args = {
@@ -23,8 +20,7 @@ default_args = {
             "football_stadiums/",
             "country/",
             "continent/"
-        ],
-        AZURE_STORAGE_KEY: azure_storage_key,
+        ]
     }
 }
 
@@ -35,22 +31,35 @@ def write_data_to_local(**kwargs):
     # Setup variables
     file_names = kwargs[FILE_NAMES]
     dirs = kwargs[DIRS]
-    azure_storage_key = kwargs[AZURE_STORAGE_KEY]
 
-    # Load the data
-    etl = ETL(EMPTY_STRING)
-    data = etl.extract()
+    for i in range(len(file_names)):
+        # Pull transformed data from the previous task
+        transformed_data = kwargs[TI].xcom_pull(key=file_names[i],
+                                      task_ids=TRANSFORM_EXTRACTED_DATA,
+                                      dag_id=ETL_FLOW,
+                                      include_prior_dates=True)
+        raw_data = kwargs[TI].xcom_pull(key=file_names[i],
+                                      task_ids=EXTRACT_WIKIPEDIA_DATA,
+                                      dag_id=ETL_FLOW,
+                                      include_prior_dates=True)
+        
+        # Write the data to BRONZE layer on local storage
+        with open(f"data/{BRONZE}/{dirs[i]}{file_names[i]}.json", 'w') as f:
+            f.write(raw_data)
 
-    # Transform the data
-    data = etl.transform(data, cols_drop=kwargs[COLS_DROP], cols_rename=kwargs[COLS_RENAME])
+        # Write the data to SILVER layer on local storage
+        with open(f"data/{SILVER}/{dirs[i]}{file_names[i]}.json", 'w') as f:
+            f.write(transformed_data)
 
-    # Load the data
-    etl.load(data, file_names, azure_storage_key, dirs, LAYER_RAW)
 with DAG(
-    'write_data_to_local',
+    dag_id = 'write_data_to_local',
     default_args=default_args,
     schedule_interval=None,
     catchup=False,
 ) as dag:
-
-    extract_wikipedia_data >> transform_extracted_data >> load_data
+    write_data_to_local = PythonOperator(
+        task_id='write_data_to_local',
+        python_callable=write_data_to_local,
+        provide_context=True
+    )
+    write_data_to_local
