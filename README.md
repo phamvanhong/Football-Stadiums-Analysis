@@ -1,5 +1,5 @@
 # Football-Stadiums-Analysis
-This is a Football Stadiums Analysis end-to-end project starting from crawling multiple data sources from Wikipedia using BeautifulSoup of the Python library, transforming, and pushing data to Azure Data Lake, which is structured to follow the Medallion Architecture. ETL jobs are managed by Apache Airflow. Implementing a data warehouse locally with PostgreSQL (using pgAdmin4) and using Power BI for visualization and analytics.
+This is a Football Stadiums Analysis end-to-end project starting from crawling multiple data sources from Wikipedia using BeautifulSoup of the Python library, transforming, and pushing data to Azure Data Lake, which is structured to follow the Medallion Architecture. ETL jobs are managed by Apache Airflow. Implementing a data warehouse locally with PostgreSQL (using pgAdmin4) and using Power BI and PostgreSQL for visualization and analytics.
 
 ## Table of Contents
 1. [System Architecture](#system-architecture)
