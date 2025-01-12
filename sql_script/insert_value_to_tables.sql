@@ -8,17 +8,17 @@ FROM json_populate_recordset(
 );
 
 -- INSET VALUE FROM temp_stadiums TO OTHER TABLES
-INSERT INTO dim_continent (continent_id, continent_name)
+INSERT INTO dim_continent (continent_id, continent)
 SELECT DISTINCT continent_id, continent
 FROM temp_stadiums
 ON CONFLICT (continent_id) DO NOTHING;
 
-INSERT INTO dim_country (country_id, country_name, continent_id)
+INSERT INTO dim_country (country_id, country, continent_id)
 SELECT DISTINCT country_id, country, continent_id
 FROM temp_stadiums
 ON CONFLICT (country_id) DO NOTHING;
 
-INSERT INTO dim_stadiums (stadium_id, stadium_name, capacity, city)
+INSERT INTO dim_stadiums (stadium_id, stadium, capacity, city)
 SELECT DISTINCT stadium_id, stadium, capacity, city
 FROM temp_stadiums
 ON CONFLICT (stadium_id) DO NOTHING;

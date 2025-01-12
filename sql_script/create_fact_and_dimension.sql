@@ -7,25 +7,25 @@ DROP TABLE IF EXISTS temp_stadiums;
 
 CREATE TABLE dim_continent (
     continent_id VARCHAR(10) PRIMARY KEY,
-    continent_name VARCHAR(255)
+    continent VARCHAR(255)
 );
 CREATE TABLE dim_country (
     country_id VARCHAR(10) PRIMARY KEY,
-    country_name VARCHAR(255),
+    country VARCHAR(255),
     continent_id VARCHAR(10),
     FOREIGN KEY (continent_id) REFERENCES dim_continent(continent_id)
 );
 CREATE TABLE dim_stadiums (
     stadium_id INT PRIMARY KEY,
-    stadium_name VARCHAR(255),
+    stadium VARCHAR(255),
     capacity INT,
     city VARCHAR(255)
 );
 CREATE TABLE fact_footballstadiums (
     stadium_id INT PRIMARY KEY,
+	home_teams TEXT,
     country_id VARCHAR(10),
     continent_id VARCHAR(10),
-	home_teams TEXT,
     FOREIGN KEY (country_id) REFERENCES dim_country(country_id),
     FOREIGN KEY (continent_id) REFERENCES dim_continent(continent_id),
     FOREIGN KEY (stadium_id) REFERENCES dim_stadiums(stadium_id)
