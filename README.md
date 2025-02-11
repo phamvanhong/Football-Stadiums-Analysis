@@ -9,7 +9,7 @@ An end-to-end data analysis project focused on building a scalable and structure
 5. [Running the Code With Docker](#running-the-code-with-docker)
 6. [Airflow Variables](#airflow-variables)
 7. [End to End Processing Flow](#end-to-end-processing-flow)
-8. [Data Warehouse Implementing](#data-warehouse-implementing)
+8. [Data Warehouse Implementation Followed By Star Schema](#data-warehouse-implementation-followed-by-star-schema)
 
 ## Workflow
 ![Screenshot 2025-01-12 213900](https://github.com/user-attachments/assets/5570cf8c-74e8-410c-ac0f-a4b75d0b47bd)
@@ -77,5 +77,5 @@ An end-to-end data analysis project focused on building a scalable and structure
 
 6. Implementing a local Data Warehouse using PostgreSQL
 7. Analytics and Visualization by PostgreSQL and Power BI
-## Data Warehouse Implementing
+## Data Warehouse Implementation Followed By Star Schema
 ![ERD for Schema](https://github.com/user-attachments/assets/a049c3df-c0ce-4086-8e45-4c4ede27cfe0)
