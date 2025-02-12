@@ -9,7 +9,7 @@ An end-to-end data analysis project focused on building a scalable and structure
 5. [Running the Code With Docker](#running-the-code-with-docker)
 6. [Airflow Variables](#airflow-variables)
 7. [End to End Processing Flow](#end-to-end-processing-flow)
-8. [Data Warehouse Implementing](#data-warehouse-implementing)
+8. [Data Warehouse Implementation Followed By Star Schema](#data-warehouse-implementation-followed-by-star-schema)
 
 ## Workflow
 ![Screenshot 2025-01-12 213900](https://github.com/user-attachments/assets/5570cf8c-74e8-410c-ac0f-a4b75d0b47bd)
@@ -66,6 +66,8 @@ An end-to-end data analysis project focused on building a scalable and structure
 2. Loading raw data into BRONZE layer of Azure Data Lake Storage Gen2
 3. Using Python to transform data and storing into SILVER layer
 4. Trigger ETL jobs by Apache Airflow
+   ![Screenshot 2025-01-17 012623](https://github.com/user-attachments/assets/4f958786-2644-4cfd-927e-c1156624835b)
+
 5. Using Azure Data Factory to get transformed data from the SILVER layer to define facts and dimensions that will be sinked into the GOLD layer
    ![Dataflow to transform and merge data sources](https://github.com/user-attachments/assets/44f8a019-1569-4758-85a8-7be11b8be40a)
    
@@ -73,7 +75,7 @@ An end-to-end data analysis project focused on building a scalable and structure
 
    ![Pipeline Management](https://github.com/user-attachments/assets/0fce9e03-44d0-404b-a00b-89ec68380018)
 
-7. Implementing a local Data Warehouse using PostgreSQL
-8. Analytics and Visualization by PostgreSQL and Power BI
-## Data Warehouse Implementing
+6. Implementing a local Data Warehouse using PostgreSQL
+7. Analytics and Visualization by PostgreSQL and Power BI
+## Data Warehouse Implementation Followed By Star Schema
 ![ERD for Schema](https://github.com/user-attachments/assets/a049c3df-c0ce-4086-8e45-4c4ede27cfe0)
