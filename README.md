@@ -1,4 +1,4 @@
-# Football-Stadiums-Analysis
+# Football Stadiums Data Pipeline
 An end-to-end data analysis project focused on building a scalable and structured data pipeline. The project involved extracting data from multiple sources on Wikipedia using Python's BeautifulSoup library, transforming it, and storing it in Azure Data Lake Gen2. The data lake follows the Medallion Architecture for efficient organization. ETL workflows were managed with Apache Airflow, while a local data warehouse was implemented with PostgreSQL (managed via pgAdmin4) for advanced analytics and reporting. Visualizations and insights were created using Power BI and PostgreSQL.
 
 ## Table of Contents
